@@ -1,5 +1,59 @@
 [
   {
+    "full_name": "dylanatsmith/slack-emoji",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "dylanatsmith/howtotarget",
+    "stargazers_count": 13,
+    "open_issues_count": 6,
+    "forks_count": 2
+  },
+  {
+    "full_name": "maximedegreve/TinyFaces",
+    "stargazers_count": 515,
+    "open_issues_count": 1,
+    "forks_count": 15
+  },
+  {
+    "full_name": "logseq/marketplace",
+    "stargazers_count": 92,
+    "open_issues_count": 9,
+    "forks_count": 104
+  },
+  {
+    "full_name": "gavinmn/logseq-luma",
+    "stargazers_count": 16,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
+    "full_name": "rainbow-me/swaps",
+    "stargazers_count": 17,
+    "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
+    "full_name": "npm/npm",
+    "stargazers_count": 17413,
+    "open_issues_count": 2167,
+    "forks_count": 3232
+  },
+  {
+    "full_name": "BrasilAPI/BrasilAPI",
+    "stargazers_count": 4808,
+    "open_issues_count": 80,
+    "forks_count": 369
+  },
+  {
+    "full_name": "joethei/obsidian-rss",
+    "stargazers_count": 145,
+    "open_issues_count": 17,
+    "forks_count": 9
+  },
+  {
     "full_name": "up-for-grabs/up-for-grabs.net",
     "stargazers_count": 2625,
     "open_issues_count": 42,
@@ -7,13 +61,13 @@
   },
   {
     "full_name": "desktop/desktop",
-    "stargazers_count": 15138,
-    "open_issues_count": 728,
-    "forks_count": 8122
+    "stargazers_count": 15139,
+    "open_issues_count": 723,
+    "forks_count": 8119
   },
   {
     "full_name": "danger/danger",
-    "stargazers_count": 4894,
+    "stargazers_count": 4896,
     "open_issues_count": 161,
     "forks_count": 448
   },
@@ -31,27 +85,27 @@
   },
   {
     "full_name": "github-changelog-generator/github-changelog-generator",
-    "stargazers_count": 6841,
+    "stargazers_count": 6843,
     "open_issues_count": 139,
-    "forks_count": 853
+    "forks_count": 851
   },
   {
     "full_name": "semantic-release/semantic-release",
-    "stargazers_count": 15997,
+    "stargazers_count": 16015,
     "open_issues_count": 282,
-    "forks_count": 1505
+    "forks_count": 1506
   },
   {
     "full_name": "octobox/octobox",
-    "stargazers_count": 4193,
+    "stargazers_count": 4194,
     "open_issues_count": 38,
-    "forks_count": 368
+    "forks_count": 369
   },
   {
     "full_name": "badges/shields",
-    "stargazers_count": 17501,
-    "open_issues_count": 339,
-    "forks_count": 4853
+    "stargazers_count": 17510,
+    "open_issues_count": 338,
+    "forks_count": 4856
   },
   {
     "full_name": "ZingGrid/zinggrid",
@@ -97,86 +151,32 @@
   },
   {
     "full_name": "awslabs/git-secrets",
-    "stargazers_count": 10288,
+    "stargazers_count": 10296,
     "open_issues_count": 103,
-    "forks_count": 1027
+    "forks_count": 1028
   },
   {
     "full_name": "elastic/elasticsearch",
-    "stargazers_count": 60523,
-    "open_issues_count": 3947,
-    "forks_count": 22016
+    "stargazers_count": 60542,
+    "open_issues_count": 3945,
+    "forks_count": 22020
   },
   {
     "full_name": "mochajs/mocha",
-    "stargazers_count": 21535,
+    "stargazers_count": 21538,
     "open_issues_count": 275,
-    "forks_count": 2959
+    "forks_count": 2960
   },
   {
     "full_name": "lerna/lerna",
-    "stargazers_count": 33204,
-    "open_issues_count": 416,
-    "forks_count": 2203
+    "stargazers_count": 33215,
+    "open_issues_count": 417,
+    "forks_count": 2204
   },
   {
     "full_name": "primer/css",
-    "stargazers_count": 11256,
-    "open_issues_count": 27,
-    "forks_count": 1067
-  },
-  {
-    "full_name": "leereilly/swot",
-    "stargazers_count": 1045,
-    "open_issues_count": 792,
-    "forks_count": 13896
-  },
-  {
-    "full_name": "designmodo/Flat-UI",
-    "stargazers_count": 14936,
-    "open_issues_count": 9,
-    "forks_count": 2398
-  },
-  {
-    "full_name": "atlemo/SubtlePatterns",
-    "stargazers_count": 4541,
-    "open_issues_count": 6,
-    "forks_count": 454
-  },
-  {
-    "full_name": "IanLunn/Hover",
-    "stargazers_count": 26186,
-    "open_issues_count": 38,
-    "forks_count": 5648
-  },
-  {
-    "full_name": "0-vortex/dotfiles",
-    "stargazers_count": 12,
-    "open_issues_count": 2,
-    "forks_count": 4
-  },
-  {
-    "full_name": "0-vortex/rss-feed-parser",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "devhubapp/devhub",
-    "stargazers_count": 8299,
-    "open_issues_count": 38,
-    "forks_count": 709
-  },
-  {
-    "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 148058,
-    "open_issues_count": 669,
-    "forks_count": 24296
-  },
-  {
-    "full_name": "ionic-team/ionicons",
-    "stargazers_count": 16222,
-    "open_issues_count": 503,
-    "forks_count": 2015
+    "stargazers_count": 11259,
+    "open_issues_count": 25,
+    "forks_count": 1077
   }
 ]
