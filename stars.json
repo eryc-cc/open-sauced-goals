@@ -1,32 +1,50 @@
 [
   {
+    "full_name": "opensource-courses/courses",
+    "stargazers_count": 61,
+    "open_issues_count": 4,
+    "forks_count": 17
+  },
+  {
+    "full_name": "PuruVJ/neodrag",
+    "stargazers_count": 435,
+    "open_issues_count": 7,
+    "forks_count": 20
+  },
+  {
+    "full_name": "vadimdemedes/ink",
+    "stargazers_count": 19194,
+    "open_issues_count": 84,
+    "forks_count": 516
+  },
+  {
     "full_name": "0kzh/minimal-youtube",
-    "stargazers_count": 57,
+    "stargazers_count": 67,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "extrawurst/gitui",
-    "stargazers_count": 10556,
-    "open_issues_count": 100,
-    "forks_count": 327
+    "stargazers_count": 10665,
+    "open_issues_count": 102,
+    "forks_count": 329
   },
   {
     "full_name": "gchq/CyberChef",
-    "stargazers_count": 18802,
-    "open_issues_count": 309,
-    "forks_count": 2245
+    "stargazers_count": 18860,
+    "open_issues_count": 313,
+    "forks_count": 2254
   },
   {
     "full_name": "immich-app/immich",
-    "stargazers_count": 5182,
-    "open_issues_count": 107,
-    "forks_count": 166
+    "stargazers_count": 5208,
+    "open_issues_count": 105,
+    "forks_count": 169
   },
   {
     "full_name": "open-sauced/contributor.info",
     "stargazers_count": 4,
-    "open_issues_count": 5,
+    "open_issues_count": 4,
     "forks_count": 1
   },
   {
@@ -37,19 +55,19 @@
   },
   {
     "full_name": "felixrieseberg/macintosh.js",
-    "stargazers_count": 7838,
+    "stargazers_count": 7843,
     "open_issues_count": 82,
     "forks_count": 315
   },
   {
     "full_name": "borisyankov/react-sparklines",
-    "stargazers_count": 2770,
+    "stargazers_count": 2771,
     "open_issues_count": 63,
     "forks_count": 198
   },
   {
     "full_name": "danilowoz/react-content-loader",
-    "stargazers_count": 12506,
+    "stargazers_count": 12509,
     "open_issues_count": 9,
     "forks_count": 420
   },
@@ -67,27 +85,27 @@
   },
   {
     "full_name": "nosir/cleave.js",
-    "stargazers_count": 17513,
+    "stargazers_count": 17516,
     "open_issues_count": 201,
-    "forks_count": 1632
+    "forks_count": 1633
   },
   {
     "full_name": "getify/Functional-Light-JS",
-    "stargazers_count": 15785,
+    "stargazers_count": 15790,
     "open_issues_count": 27,
     "forks_count": 1915
   },
   {
     "full_name": "iamkun/dayjs",
-    "stargazers_count": 40426,
-    "open_issues_count": 561,
-    "forks_count": 2033
+    "stargazers_count": 40457,
+    "open_issues_count": 565,
+    "forks_count": 2036
   },
   {
     "full_name": "YousefED/BlockNote",
-    "stargazers_count": 451,
-    "open_issues_count": 10,
-    "forks_count": 17
+    "stargazers_count": 457,
+    "open_issues_count": 12,
+    "forks_count": 19
   },
   {
     "full_name": "jh3y/dynamic-island",
@@ -97,39 +115,39 @@
   },
   {
     "full_name": "nakov/Practical-Cryptography-for-Developers-Book",
-    "stargazers_count": 2692,
+    "stargazers_count": 2698,
     "open_issues_count": 43,
-    "forks_count": 313
+    "forks_count": 312
   },
   {
     "full_name": "Nickyie/Cybersecurity-Resources",
-    "stargazers_count": 1278,
+    "stargazers_count": 1290,
     "open_issues_count": 5,
-    "forks_count": 187
+    "forks_count": 190
   },
   {
     "full_name": "umami-software/umami",
-    "stargazers_count": 13287,
-    "open_issues_count": 58,
-    "forks_count": 1978
+    "stargazers_count": 13305,
+    "open_issues_count": 56,
+    "forks_count": 1985
   },
   {
     "full_name": "kepano/obsidian-minimal",
-    "stargazers_count": 1802,
+    "stargazers_count": 1823,
     "open_issues_count": 91,
-    "forks_count": 118
+    "forks_count": 117
   },
   {
     "full_name": "refined-github/refined-github",
-    "stargazers_count": 18927,
-    "open_issues_count": 151,
-    "forks_count": 1337
+    "stargazers_count": 18957,
+    "open_issues_count": 155,
+    "forks_count": 1338
   },
   {
     "full_name": "raphaelameaume/fragment",
-    "stargazers_count": 548,
+    "stargazers_count": 554,
     "open_issues_count": 4,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "Gerrnperl/outline-map",
@@ -139,9 +157,9 @@
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 14614,
+    "stargazers_count": 14678,
     "open_issues_count": 88,
-    "forks_count": 675
+    "forks_count": 677
   },
   {
     "full_name": "gitsense/hacktoberfest",
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 2959,
+    "stargazers_count": 2966,
     "open_issues_count": 27,
-    "forks_count": 215
+    "forks_count": 214
   },
   {
     "full_name": "alyssaxuu/flowy",
-    "stargazers_count": 9710,
+    "stargazers_count": 9739,
     "open_issues_count": 47,
-    "forks_count": 790
-  },
-  {
-    "full_name": "alyssaxuu/motionity",
-    "stargazers_count": 2189,
-    "open_issues_count": 13,
-    "forks_count": 109
-  },
-  {
-    "full_name": "XXIIVV/clock",
-    "stargazers_count": 80,
-    "open_issues_count": 2,
-    "forks_count": 8
-  },
-  {
-    "full_name": "XXIIVV/webring",
-    "stargazers_count": 642,
-    "open_issues_count": 14,
-    "forks_count": 335
+    "forks_count": 794
   }
 ]
