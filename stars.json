@@ -1,14 +1,68 @@
 [
   {
-    "full_name": "chrismwilliams/astro-theme-cactus",
-    "stargazers_count": 69,
+    "full_name": "steven-tey/dub",
+    "stargazers_count": 3338,
+    "open_issues_count": 17,
+    "forks_count": 136
+  },
+  {
+    "full_name": "leeo-dev/dev-finances",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "kkemple/theworst.dev",
+    "stargazers_count": 22,
     "open_issues_count": 1,
-    "forks_count": 11
+    "forks_count": 3
+  },
+  {
+    "full_name": "chasemccoy/www",
+    "stargazers_count": 19,
+    "open_issues_count": 1,
+    "forks_count": 5
+  },
+  {
+    "full_name": "jackyzha0/quartz",
+    "stargazers_count": 1140,
+    "open_issues_count": 28,
+    "forks_count": 809
+  },
+  {
+    "full_name": "flowershow/remark-wiki-link-plus",
+    "stargazers_count": 15,
+    "open_issues_count": 2,
+    "forks_count": 3
+  },
+  {
+    "full_name": "TuanManhCao/digital-garden",
+    "stargazers_count": 209,
+    "open_issues_count": 10,
+    "forks_count": 30
+  },
+  {
+    "full_name": "satnaing/astro-paper",
+    "stargazers_count": 29,
+    "open_issues_count": 1,
+    "forks_count": 8
+  },
+  {
+    "full_name": "sw-yx/swyxdotio",
+    "stargazers_count": 205,
+    "open_issues_count": 25,
+    "forks_count": 37
+  },
+  {
+    "full_name": "chrismwilliams/astro-theme-cactus",
+    "stargazers_count": 70,
+    "open_issues_count": 1,
+    "forks_count": 10
   },
   {
     "full_name": "one-aalam/astro-ink",
     "stargazers_count": 237,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 34
   },
   {
@@ -25,21 +79,21 @@
   },
   {
     "full_name": "outline/outline",
-    "stargazers_count": 16892,
-    "open_issues_count": 120,
-    "forks_count": 1451
+    "stargazers_count": 16928,
+    "open_issues_count": 116,
+    "forks_count": 1454
   },
   {
     "full_name": "linear/linear",
-    "stargazers_count": 341,
+    "stargazers_count": 345,
     "open_issues_count": 23,
     "forks_count": 92
   },
   {
     "full_name": "Dun-sin/Code-Magic",
-    "stargazers_count": 175,
-    "open_issues_count": 7,
-    "forks_count": 115
+    "stargazers_count": 180,
+    "open_issues_count": 4,
+    "forks_count": 118
   },
   {
     "full_name": "PascalPixel/pokemon-js",
@@ -49,69 +103,69 @@
   },
   {
     "full_name": "Parabeac/parabeac_core",
-    "stargazers_count": 489,
-    "open_issues_count": 30,
+    "stargazers_count": 493,
+    "open_issues_count": 31,
     "forks_count": 48
   },
   {
     "full_name": "knadh/listmonk",
-    "stargazers_count": 8708,
-    "open_issues_count": 51,
-    "forks_count": 681
+    "stargazers_count": 8730,
+    "open_issues_count": 54,
+    "forks_count": 683
   },
   {
     "full_name": "he4rt/he4rtoberfest-2022",
-    "stargazers_count": 288,
-    "open_issues_count": 28,
-    "forks_count": 257
+    "stargazers_count": 289,
+    "open_issues_count": 0,
+    "forks_count": 251
   },
   {
     "full_name": "akinncar/tse2022",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 1,
     "forks_count": 9
   },
   {
     "full_name": "opensource-courses/courses",
-    "stargazers_count": 61,
+    "stargazers_count": 62,
     "open_issues_count": 5,
     "forks_count": 18
   },
   {
     "full_name": "PuruVJ/neodrag",
-    "stargazers_count": 526,
+    "stargazers_count": 532,
     "open_issues_count": 8,
     "forks_count": 23
   },
   {
     "full_name": "vadimdemedes/ink",
-    "stargazers_count": 19236,
-    "open_issues_count": 85,
-    "forks_count": 520
+    "stargazers_count": 19259,
+    "open_issues_count": 86,
+    "forks_count": 522
   },
   {
     "full_name": "0kzh/minimal-youtube",
-    "stargazers_count": 109,
+    "stargazers_count": 119,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "extrawurst/gitui",
-    "stargazers_count": 10973,
-    "open_issues_count": 109,
-    "forks_count": 339
+    "stargazers_count": 11044,
+    "open_issues_count": 108,
+    "forks_count": 342
   },
   {
     "full_name": "gchq/CyberChef",
-    "stargazers_count": 19018,
-    "open_issues_count": 320,
-    "forks_count": 2269
+    "stargazers_count": 19039,
+    "open_issues_count": 308,
+    "forks_count": 2272
   },
   {
     "full_name": "immich-app/immich",
-    "stargazers_count": 5440,
-    "open_issues_count": 116,
-    "forks_count": 181
+    "stargazers_count": 5479,
+    "open_issues_count": 120,
+    "forks_count": 185
   },
   {
     "full_name": "open-sauced/contributor.info",
@@ -121,62 +175,8 @@
   },
   {
     "full_name": "martinlaxenaire/curtainsjs",
-    "stargazers_count": 1346,
+    "stargazers_count": 1348,
     "open_issues_count": 7,
     "forks_count": 91
-  },
-  {
-    "full_name": "felixrieseberg/macintosh.js",
-    "stargazers_count": 7850,
-    "open_issues_count": 82,
-    "forks_count": 315
-  },
-  {
-    "full_name": "borisyankov/react-sparklines",
-    "stargazers_count": 2774,
-    "open_issues_count": 63,
-    "forks_count": 198
-  },
-  {
-    "full_name": "danilowoz/react-content-loader",
-    "stargazers_count": 12542,
-    "open_issues_count": 11,
-    "forks_count": 420
-  },
-  {
-    "full_name": "rauchg/blog",
-    "stargazers_count": 804,
-    "open_issues_count": 6,
-    "forks_count": 115
-  },
-  {
-    "full_name": "Codennnn/Green-Wall",
-    "stargazers_count": 14,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "nosir/cleave.js",
-    "stargazers_count": 17530,
-    "open_issues_count": 201,
-    "forks_count": 1639
-  },
-  {
-    "full_name": "getify/Functional-Light-JS",
-    "stargazers_count": 15814,
-    "open_issues_count": 27,
-    "forks_count": 1921
-  },
-  {
-    "full_name": "iamkun/dayjs",
-    "stargazers_count": 40899,
-    "open_issues_count": 566,
-    "forks_count": 2046
-  },
-  {
-    "full_name": "YousefED/BlockNote",
-    "stargazers_count": 488,
-    "open_issues_count": 13,
-    "forks_count": 24
   }
 ]
