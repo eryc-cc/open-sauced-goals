@@ -1,55 +1,85 @@
 [
   {
+    "full_name": "Swordfish90/cool-retro-term",
+    "stargazers_count": 17725,
+    "open_issues_count": 406,
+    "forks_count": 744
+  },
+  {
+    "full_name": "natemoo-re/raycast-microblog",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "gtg922r/obsidian-numerals",
+    "stargazers_count": 21,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
+    "full_name": "natemoo-re/feed",
+    "stargazers_count": 39,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
+    "full_name": "PaddlePaddle/PaddleHub",
+    "stargazers_count": 10490,
+    "open_issues_count": 497,
+    "forks_count": 1872
+  },
+  {
     "full_name": "raycast/extensions",
-    "stargazers_count": 2552,
-    "open_issues_count": 364,
-    "forks_count": 985
+    "stargazers_count": 2568,
+    "open_issues_count": 380,
+    "forks_count": 992
   },
   {
     "full_name": "FuelLabs/awesome-fuel",
-    "stargazers_count": 64,
+    "stargazers_count": 66,
     "open_issues_count": 4,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 19053,
-    "open_issues_count": 1139,
-    "forks_count": 3369
+    "stargazers_count": 19799,
+    "open_issues_count": 1177,
+    "forks_count": 3501
   },
   {
     "full_name": "shadcn/taxonomy",
-    "stargazers_count": 1792,
-    "open_issues_count": 0,
-    "forks_count": 71
+    "stargazers_count": 2041,
+    "open_issues_count": 9,
+    "forks_count": 88
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 1891,
-    "open_issues_count": 22,
-    "forks_count": 92
+    "stargazers_count": 2046,
+    "open_issues_count": 28,
+    "forks_count": 101
   },
   {
     "full_name": "vercel/satori",
-    "stargazers_count": 5427,
-    "open_issues_count": 51,
-    "forks_count": 69
+    "stargazers_count": 5514,
+    "open_issues_count": 48,
+    "forks_count": 75
   },
   {
     "full_name": "jzarca01/awesome-food",
-    "stargazers_count": 118,
+    "stargazers_count": 119,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "ttt30ga/awesome-product-design",
-    "stargazers_count": 1912,
+    "stargazers_count": 1914,
     "open_issues_count": 2,
-    "forks_count": 133
+    "forks_count": 132
   },
   {
     "full_name": "brabadu/awesome-fonts",
-    "stargazers_count": 1035,
+    "stargazers_count": 1037,
     "open_issues_count": 4,
     "forks_count": 64
   },
@@ -73,7 +103,7 @@
   },
   {
     "full_name": "blockprotocol/blockprotocol",
-    "stargazers_count": 1030,
+    "stargazers_count": 1029,
     "open_issues_count": 30,
     "forks_count": 35
   },
@@ -85,15 +115,15 @@
   },
   {
     "full_name": "sourcegraph/sourcegraph",
-    "stargazers_count": 7074,
-    "open_issues_count": 4750,
+    "stargazers_count": 7089,
+    "open_issues_count": 4762,
     "forks_count": 857
   },
   {
     "full_name": "steven-tey/dub",
-    "stargazers_count": 3623,
-    "open_issues_count": 19,
-    "forks_count": 150
+    "stargazers_count": 3688,
+    "open_issues_count": 25,
+    "forks_count": 154
   },
   {
     "full_name": "leeo-dev/dev-finances",
@@ -103,7 +133,7 @@
   },
   {
     "full_name": "kkemple/theworst.dev",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -115,25 +145,25 @@
   },
   {
     "full_name": "jackyzha0/quartz",
-    "stargazers_count": 1217,
+    "stargazers_count": 1231,
     "open_issues_count": 26,
-    "forks_count": 876
+    "forks_count": 884
   },
   {
     "full_name": "flowershow/remark-wiki-link-plus",
-    "stargazers_count": 15,
+    "stargazers_count": 17,
     "open_issues_count": 3,
     "forks_count": 3
   },
   {
     "full_name": "TuanManhCao/digital-garden",
-    "stargazers_count": 233,
+    "stargazers_count": 235,
     "open_issues_count": 10,
-    "forks_count": 35
+    "forks_count": 34
   },
   {
     "full_name": "satnaing/astro-paper",
-    "stargazers_count": 43,
+    "stargazers_count": 49,
     "open_issues_count": 1,
     "forks_count": 10
   },
@@ -145,38 +175,8 @@
   },
   {
     "full_name": "chrismwilliams/astro-theme-cactus",
-    "stargazers_count": 74,
+    "stargazers_count": 76,
     "open_issues_count": 1,
     "forks_count": 13
-  },
-  {
-    "full_name": "one-aalam/astro-ink",
-    "stargazers_count": 242,
-    "open_issues_count": 2,
-    "forks_count": 36
-  },
-  {
-    "full_name": "lujjjh/LitoMusic",
-    "stargazers_count": 105,
-    "open_issues_count": 8,
-    "forks_count": 13
-  },
-  {
-    "full_name": "mohn93/AdvancedPageControl",
-    "stargazers_count": 337,
-    "open_issues_count": 3,
-    "forks_count": 44
-  },
-  {
-    "full_name": "outline/outline",
-    "stargazers_count": 17214,
-    "open_issues_count": 101,
-    "forks_count": 1476
-  },
-  {
-    "full_name": "linear/linear",
-    "stargazers_count": 358,
-    "open_issues_count": 24,
-    "forks_count": 93
   }
 ]
