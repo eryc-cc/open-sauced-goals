@@ -1,7 +1,67 @@
 [
   {
+    "full_name": "The-Art-of-Hacking/h4cker",
+    "stargazers_count": 12295,
+    "open_issues_count": 2,
+    "forks_count": 2110
+  },
+  {
+    "full_name": "Hack-with-Github/Awesome-Hacking",
+    "stargazers_count": 58129,
+    "open_issues_count": 22,
+    "forks_count": 8198
+  },
+  {
+    "full_name": "PaulSec/awesome-sec-talks",
+    "stargazers_count": 3672,
+    "open_issues_count": 2,
+    "forks_count": 486
+  },
+  {
+    "full_name": "Echorridoors/Alphavetist",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "GoogleChromeLabs/squoosh",
+    "stargazers_count": 17794,
+    "open_issues_count": 254,
+    "forks_count": 1220
+  },
+  {
+    "full_name": "alexharris/ditherit-v2",
+    "stargazers_count": 114,
+    "open_issues_count": 10,
+    "forks_count": 12
+  },
+  {
+    "full_name": "insin/tweak-new-twitter",
+    "stargazers_count": 546,
+    "open_issues_count": 27,
+    "forks_count": 21
+  },
+  {
+    "full_name": "uonai/Fortunae",
+    "stargazers_count": 165,
+    "open_issues_count": 16,
+    "forks_count": 2
+  },
+  {
+    "full_name": "natemoo-re/ultrahtml",
+    "stargazers_count": 284,
+    "open_issues_count": 2,
+    "forks_count": 2
+  },
+  {
+    "full_name": "Echorridoors/Rafinograde",
+    "stargazers_count": 10,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
     "full_name": "Swordfish90/cool-retro-term",
-    "stargazers_count": 17804,
+    "stargazers_count": 17835,
     "open_issues_count": 407,
     "forks_count": 744
   },
@@ -13,57 +73,57 @@
   },
   {
     "full_name": "gtg922r/obsidian-numerals",
-    "stargazers_count": 32,
-    "open_issues_count": 4,
+    "stargazers_count": 35,
+    "open_issues_count": 3,
     "forks_count": 1
   },
   {
     "full_name": "natemoo-re/feed",
-    "stargazers_count": 43,
+    "stargazers_count": 45,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "PaddlePaddle/PaddleHub",
-    "stargazers_count": 10519,
-    "open_issues_count": 492,
-    "forks_count": 1879
+    "stargazers_count": 10560,
+    "open_issues_count": 494,
+    "forks_count": 1886
   },
   {
     "full_name": "raycast/extensions",
-    "stargazers_count": 2582,
-    "open_issues_count": 360,
-    "forks_count": 1002
+    "stargazers_count": 2607,
+    "open_issues_count": 369,
+    "forks_count": 1009
   },
   {
     "full_name": "FuelLabs/awesome-fuel",
-    "stargazers_count": 69,
+    "stargazers_count": 73,
     "open_issues_count": 4,
     "forks_count": 11
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 20271,
-    "open_issues_count": 1232,
-    "forks_count": 3605
+    "stargazers_count": 20845,
+    "open_issues_count": 1271,
+    "forks_count": 3727
   },
   {
     "full_name": "shadcn/taxonomy",
-    "stargazers_count": 2191,
-    "open_issues_count": 5,
-    "forks_count": 95
+    "stargazers_count": 2242,
+    "open_issues_count": 6,
+    "forks_count": 97
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 2120,
-    "open_issues_count": 32,
-    "forks_count": 106
+    "stargazers_count": 2158,
+    "open_issues_count": 34,
+    "forks_count": 108
   },
   {
     "full_name": "vercel/satori",
-    "stargazers_count": 5724,
-    "open_issues_count": 52,
-    "forks_count": 80
+    "stargazers_count": 5812,
+    "open_issues_count": 59,
+    "forks_count": 82
   },
   {
     "full_name": "jzarca01/awesome-food",
@@ -73,13 +133,13 @@
   },
   {
     "full_name": "ttt30ga/awesome-product-design",
-    "stargazers_count": 1916,
+    "stargazers_count": 1920,
     "open_issues_count": 2,
-    "forks_count": 132
+    "forks_count": 133
   },
   {
     "full_name": "brabadu/awesome-fonts",
-    "stargazers_count": 1038,
+    "stargazers_count": 1041,
     "open_issues_count": 4,
     "forks_count": 64
   },
@@ -97,13 +157,13 @@
   },
   {
     "full_name": "egoist/gh-pinned-repos",
-    "stargazers_count": 84,
+    "stargazers_count": 86,
     "open_issues_count": 3,
     "forks_count": 12
   },
   {
     "full_name": "blockprotocol/blockprotocol",
-    "stargazers_count": 1033,
+    "stargazers_count": 1036,
     "open_issues_count": 28,
     "forks_count": 35
   },
@@ -115,68 +175,8 @@
   },
   {
     "full_name": "sourcegraph/sourcegraph",
-    "stargazers_count": 7101,
-    "open_issues_count": 4763,
-    "forks_count": 856
-  },
-  {
-    "full_name": "steven-tey/dub",
-    "stargazers_count": 3721,
-    "open_issues_count": 23,
-    "forks_count": 158
-  },
-  {
-    "full_name": "leeo-dev/dev-finances",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "kkemple/theworst.dev",
-    "stargazers_count": 23,
-    "open_issues_count": 1,
-    "forks_count": 3
-  },
-  {
-    "full_name": "chasemccoy/www",
-    "stargazers_count": 19,
-    "open_issues_count": 1,
-    "forks_count": 5
-  },
-  {
-    "full_name": "jackyzha0/quartz",
-    "stargazers_count": 1250,
-    "open_issues_count": 27,
-    "forks_count": 885
-  },
-  {
-    "full_name": "flowershow/remark-wiki-link-plus",
-    "stargazers_count": 17,
-    "open_issues_count": 3,
-    "forks_count": 3
-  },
-  {
-    "full_name": "TuanManhCao/digital-garden",
-    "stargazers_count": 237,
-    "open_issues_count": 10,
-    "forks_count": 35
-  },
-  {
-    "full_name": "satnaing/astro-paper",
-    "stargazers_count": 51,
-    "open_issues_count": 1,
-    "forks_count": 12
-  },
-  {
-    "full_name": "sw-yx/swyxdotio",
-    "stargazers_count": 206,
-    "open_issues_count": 26,
-    "forks_count": 37
-  },
-  {
-    "full_name": "chrismwilliams/astro-theme-cactus",
-    "stargazers_count": 78,
-    "open_issues_count": 1,
-    "forks_count": 13
+    "stargazers_count": 7108,
+    "open_issues_count": 4764,
+    "forks_count": 858
   }
 ]
