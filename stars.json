@@ -1,25 +1,91 @@
 [
   {
+    "full_name": "maxboeck/mxb",
+    "stargazers_count": 474,
+    "open_issues_count": 16,
+    "forks_count": 75
+  },
+  {
+    "full_name": "a16z/helios",
+    "stargazers_count": 997,
+    "open_issues_count": 9,
+    "forks_count": 63
+  },
+  {
+    "full_name": "hiroki0525/idle-task",
+    "stargazers_count": 37,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
+    "full_name": "trungdq88/thesimpleapi",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "akinncar/garden",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "pocketbase/pocketbase",
+    "stargazers_count": 16650,
+    "open_issues_count": 43,
+    "forks_count": 591
+  },
+  {
+    "full_name": "tweetback/tweetback",
+    "stargazers_count": 162,
+    "open_issues_count": 17,
+    "forks_count": 19
+  },
+  {
+    "full_name": "getAlby/lightning-browser-extension",
+    "stargazers_count": 256,
+    "open_issues_count": 178,
+    "forks_count": 87
+  },
+  {
+    "full_name": "openai/openai-cookbook",
+    "stargazers_count": 474,
+    "open_issues_count": 2,
+    "forks_count": 119
+  },
+  {
+    "full_name": "lucasfcosta/dotfiles",
+    "stargazers_count": 246,
+    "open_issues_count": 1,
+    "forks_count": 24
+  },
+  {
+    "full_name": "utterance/utterances",
+    "stargazers_count": 7263,
+    "open_issues_count": 138,
+    "forks_count": 539
+  },
+  {
     "full_name": "learn-anything/learn-anything",
-    "stargazers_count": 14494,
+    "stargazers_count": 14501,
     "open_issues_count": 5,
     "forks_count": 943
   },
   {
     "full_name": "The-Art-of-Hacking/h4cker",
-    "stargazers_count": 12349,
+    "stargazers_count": 12365,
     "open_issues_count": 2,
-    "forks_count": 2125
+    "forks_count": 2127
   },
   {
     "full_name": "Hack-with-Github/Awesome-Hacking",
-    "stargazers_count": 58395,
+    "stargazers_count": 58497,
     "open_issues_count": 22,
-    "forks_count": 8215
+    "forks_count": 8224
   },
   {
     "full_name": "PaulSec/awesome-sec-talks",
-    "stargazers_count": 3692,
+    "stargazers_count": 3693,
     "open_issues_count": 2,
     "forks_count": 489
   },
@@ -31,9 +97,9 @@
   },
   {
     "full_name": "GoogleChromeLabs/squoosh",
-    "stargazers_count": 17844,
+    "stargazers_count": 17861,
     "open_issues_count": 256,
-    "forks_count": 1221
+    "forks_count": 1226
   },
   {
     "full_name": "alexharris/ditherit-v2",
@@ -43,8 +109,8 @@
   },
   {
     "full_name": "insin/tweak-new-twitter",
-    "stargazers_count": 556,
-    "open_issues_count": 26,
+    "stargazers_count": 562,
+    "open_issues_count": 28,
     "forks_count": 22
   },
   {
@@ -55,7 +121,7 @@
   },
   {
     "full_name": "natemoo-re/ultrahtml",
-    "stargazers_count": 291,
+    "stargazers_count": 293,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -67,7 +133,7 @@
   },
   {
     "full_name": "Swordfish90/cool-retro-term",
-    "stargazers_count": 17875,
+    "stargazers_count": 17883,
     "open_issues_count": 410,
     "forks_count": 745
   },
@@ -79,104 +145,38 @@
   },
   {
     "full_name": "gtg922r/obsidian-numerals",
-    "stargazers_count": 51,
-    "open_issues_count": 4,
+    "stargazers_count": 52,
+    "open_issues_count": 5,
     "forks_count": 1
   },
   {
     "full_name": "natemoo-re/feed",
-    "stargazers_count": 45,
+    "stargazers_count": 44,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "PaddlePaddle/PaddleHub",
-    "stargazers_count": 10641,
-    "open_issues_count": 496,
-    "forks_count": 1894
+    "stargazers_count": 10663,
+    "open_issues_count": 499,
+    "forks_count": 1899
   },
   {
     "full_name": "raycast/extensions",
-    "stargazers_count": 2644,
-    "open_issues_count": 373,
-    "forks_count": 1022
+    "stargazers_count": 2666,
+    "open_issues_count": 343,
+    "forks_count": 1027
   },
   {
     "full_name": "FuelLabs/awesome-fuel",
-    "stargazers_count": 83,
+    "stargazers_count": 87,
     "open_issues_count": 5,
     "forks_count": 14
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 21608,
-    "open_issues_count": 1327,
-    "forks_count": 3903
-  },
-  {
-    "full_name": "shadcn/taxonomy",
-    "stargazers_count": 2601,
-    "open_issues_count": 6,
-    "forks_count": 112
-  },
-  {
-    "full_name": "bluesky-social/atproto",
-    "stargazers_count": 2220,
-    "open_issues_count": 32,
-    "forks_count": 109
-  },
-  {
-    "full_name": "vercel/satori",
-    "stargazers_count": 5900,
-    "open_issues_count": 58,
-    "forks_count": 84
-  },
-  {
-    "full_name": "jzarca01/awesome-food",
-    "stargazers_count": 121,
-    "open_issues_count": 0,
-    "forks_count": 6
-  },
-  {
-    "full_name": "ttt30ga/awesome-product-design",
-    "stargazers_count": 1925,
-    "open_issues_count": 2,
-    "forks_count": 133
-  },
-  {
-    "full_name": "brabadu/awesome-fonts",
-    "stargazers_count": 1046,
-    "open_issues_count": 4,
-    "forks_count": 64
-  },
-  {
-    "full_name": "sindresorhus/human-interface-guidelines-extras",
-    "stargazers_count": 257,
-    "open_issues_count": 9,
-    "forks_count": 5
-  },
-  {
-    "full_name": "devMozao/tweet-deleter",
-    "stargazers_count": 16,
-    "open_issues_count": 15,
-    "forks_count": 0
-  },
-  {
-    "full_name": "egoist/gh-pinned-repos",
-    "stargazers_count": 87,
-    "open_issues_count": 3,
-    "forks_count": 13
-  },
-  {
-    "full_name": "blockprotocol/blockprotocol",
-    "stargazers_count": 1036,
-    "open_issues_count": 29,
-    "forks_count": 35
-  },
-  {
-    "full_name": "MaggieAppleton/blockprotocol",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 22053,
+    "open_issues_count": 1368,
+    "forks_count": 3992
   }
 ]
