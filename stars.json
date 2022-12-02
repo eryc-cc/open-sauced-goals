@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "kepano/40-questions",
+    "stargazers_count": 128,
+    "open_issues_count": 0,
+    "forks_count": 31
+  },
+  {
+    "full_name": "v-exec/Log",
+    "stargazers_count": 28,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "flber/Mineral-Existence",
     "stargazers_count": 7,
     "open_issues_count": 1,
@@ -13,26 +25,26 @@
   },
   {
     "full_name": "typicode/lowdb",
-    "stargazers_count": 18705,
-    "open_issues_count": 3,
+    "stargazers_count": 18718,
+    "open_issues_count": 4,
     "forks_count": 870
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 64423,
+    "stargazers_count": 64467,
     "open_issues_count": 650,
-    "forks_count": 6357
+    "forks_count": 6366
   },
   {
     "full_name": "EthanRutherford/fast-fuzzy",
-    "stargazers_count": 290,
+    "stargazers_count": 291,
     "open_issues_count": 2,
     "forks_count": 6
   },
   {
     "full_name": "macbre/analyze-css",
     "stargazers_count": 679,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 25
   },
   {
@@ -67,49 +79,49 @@
   },
   {
     "full_name": "sindresorhus/awesome-scifi",
-    "stargazers_count": 3536,
+    "stargazers_count": 3538,
     "open_issues_count": 10,
-    "forks_count": 237
+    "forks_count": 238
   },
   {
     "full_name": "cs-books/influential-cs-books",
-    "stargazers_count": 4850,
+    "stargazers_count": 4851,
     "open_issues_count": 6,
     "forks_count": 440
   },
   {
     "full_name": "hackerkid/Mind-Expanding-Books",
-    "stargazers_count": 9474,
+    "stargazers_count": 9489,
     "open_issues_count": 83,
     "forks_count": 1023
   },
   {
     "full_name": "mdn/content",
-    "stargazers_count": 7075,
+    "stargazers_count": 7086,
     "open_issues_count": 692,
-    "forks_count": 13467
+    "forks_count": 13527
   },
   {
     "full_name": "blueedgetechno/win11React",
-    "stargazers_count": 6785,
-    "open_issues_count": 24,
-    "forks_count": 441
+    "stargazers_count": 6799,
+    "open_issues_count": 23,
+    "forks_count": 445
   },
   {
     "full_name": "maxboeck/mxb",
-    "stargazers_count": 475,
+    "stargazers_count": 476,
     "open_issues_count": 16,
     "forks_count": 75
   },
   {
     "full_name": "a16z/helios",
-    "stargazers_count": 1075,
-    "open_issues_count": 9,
-    "forks_count": 79
+    "stargazers_count": 1093,
+    "open_issues_count": 11,
+    "forks_count": 82
   },
   {
     "full_name": "hiroki0525/idle-task",
-    "stargazers_count": 79,
+    "stargazers_count": 83,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -127,27 +139,27 @@
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 16807,
+    "stargazers_count": 16940,
     "open_issues_count": 44,
-    "forks_count": 601
+    "forks_count": 608
   },
   {
     "full_name": "tweetback/tweetback",
-    "stargazers_count": 217,
+    "stargazers_count": 246,
     "open_issues_count": 21,
-    "forks_count": 21
+    "forks_count": 28
   },
   {
     "full_name": "getAlby/lightning-browser-extension",
-    "stargazers_count": 256,
-    "open_issues_count": 180,
+    "stargazers_count": 258,
+    "open_issues_count": 176,
     "forks_count": 87
   },
   {
     "full_name": "openai/openai-cookbook",
-    "stargazers_count": 487,
+    "stargazers_count": 674,
     "open_issues_count": 3,
-    "forks_count": 121
+    "forks_count": 137
   },
   {
     "full_name": "lucasfcosta/dotfiles",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "utterance/utterances",
-    "stargazers_count": 7276,
+    "stargazers_count": 7291,
     "open_issues_count": 138,
-    "forks_count": 538
+    "forks_count": 540
   },
   {
     "full_name": "learn-anything/learn-anything",
-    "stargazers_count": 14511,
+    "stargazers_count": 14519,
     "open_issues_count": 5,
-    "forks_count": 944
-  },
-  {
-    "full_name": "The-Art-of-Hacking/h4cker",
-    "stargazers_count": 12382,
-    "open_issues_count": 3,
-    "forks_count": 2128
-  },
-  {
-    "full_name": "Hack-with-Github/Awesome-Hacking",
-    "stargazers_count": 58642,
-    "open_issues_count": 22,
-    "forks_count": 8233
+    "forks_count": 945
   }
 ]
