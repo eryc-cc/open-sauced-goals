@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "autophagy/faereld",
+    "stargazers_count": 88,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "autophagy/datarum",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "nostr-protocol/nostr",
-    "stargazers_count": 1830,
-    "open_issues_count": 17,
-    "forks_count": 63
+    "stargazers_count": 2788,
+    "open_issues_count": 19,
+    "forks_count": 79
   },
   {
     "full_name": "jcubic/git",
@@ -25,7 +37,7 @@
   },
   {
     "full_name": "paladin-t/fantasy",
-    "stargazers_count": 1090,
+    "stargazers_count": 1092,
     "open_issues_count": 5,
     "forks_count": 66
   },
@@ -37,19 +49,19 @@
   },
   {
     "full_name": "XXIIVV/oscean",
-    "stargazers_count": 415,
+    "stargazers_count": 416,
     "open_issues_count": 12,
     "forks_count": 80
   },
   {
     "full_name": "kepano/40-questions",
-    "stargazers_count": 140,
+    "stargazers_count": 141,
     "open_issues_count": 0,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "v-exec/Log",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -61,32 +73,32 @@
   },
   {
     "full_name": "typicode/steno",
-    "stargazers_count": 607,
-    "open_issues_count": 2,
+    "stargazers_count": 609,
+    "open_issues_count": 0,
     "forks_count": 33
   },
   {
     "full_name": "typicode/lowdb",
-    "stargazers_count": 18790,
-    "open_issues_count": 5,
+    "stargazers_count": 18803,
+    "open_issues_count": 4,
     "forks_count": 870
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 64650,
-    "open_issues_count": 651,
-    "forks_count": 6388
+    "stargazers_count": 64688,
+    "open_issues_count": 653,
+    "forks_count": 6393
   },
   {
     "full_name": "EthanRutherford/fast-fuzzy",
-    "stargazers_count": 293,
+    "stargazers_count": 294,
     "open_issues_count": 2,
     "forks_count": 6
   },
   {
     "full_name": "macbre/analyze-css",
     "stargazers_count": 680,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "forks_count": 25
   },
   {
@@ -97,7 +109,7 @@
   },
   {
     "full_name": "ericwbailey/accessible-html-content-patterns",
-    "stargazers_count": 118,
+    "stargazers_count": 119,
     "open_issues_count": 1,
     "forks_count": 5
   },
@@ -121,62 +133,50 @@
   },
   {
     "full_name": "sindresorhus/awesome-scifi",
-    "stargazers_count": 3553,
+    "stargazers_count": 3557,
     "open_issues_count": 10,
     "forks_count": 241
   },
   {
     "full_name": "cs-books/influential-cs-books",
-    "stargazers_count": 4872,
+    "stargazers_count": 4877,
     "open_issues_count": 6,
-    "forks_count": 441
+    "forks_count": 442
   },
   {
     "full_name": "hackerkid/Mind-Expanding-Books",
-    "stargazers_count": 9537,
+    "stargazers_count": 9553,
     "open_issues_count": 84,
     "forks_count": 1027
   },
   {
     "full_name": "mdn/content",
-    "stargazers_count": 7153,
-    "open_issues_count": 727,
-    "forks_count": 13859
+    "stargazers_count": 7166,
+    "open_issues_count": 720,
+    "forks_count": 13958
   },
   {
     "full_name": "blueedgetechno/win11React",
-    "stargazers_count": 6910,
-    "open_issues_count": 23,
-    "forks_count": 468
+    "stargazers_count": 6915,
+    "open_issues_count": 22,
+    "forks_count": 470
   },
   {
     "full_name": "maxboeck/mxb",
-    "stargazers_count": 478,
+    "stargazers_count": 479,
     "open_issues_count": 18,
     "forks_count": 75
   },
   {
     "full_name": "a16z/helios",
-    "stargazers_count": 1149,
+    "stargazers_count": 1156,
     "open_issues_count": 20,
-    "forks_count": 88
+    "forks_count": 90
   },
   {
     "full_name": "hiroki0525/idle-task",
-    "stargazers_count": 90,
+    "stargazers_count": 93,
     "open_issues_count": 1,
     "forks_count": 3
-  },
-  {
-    "full_name": "trungdq88/thesimpleapi",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "akinncar/garden",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
