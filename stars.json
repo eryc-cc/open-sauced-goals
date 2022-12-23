@@ -13,9 +13,9 @@
   },
   {
     "full_name": "nostr-protocol/nostr",
-    "stargazers_count": 2788,
+    "stargazers_count": 3138,
     "open_issues_count": 19,
-    "forks_count": 79
+    "forks_count": 87
   },
   {
     "full_name": "jcubic/git",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "paladin-t/fantasy",
-    "stargazers_count": 1092,
+    "stargazers_count": 1094,
     "open_issues_count": 5,
     "forks_count": 66
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "kepano/40-questions",
-    "stargazers_count": 141,
+    "stargazers_count": 145,
     "open_issues_count": 0,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "v-exec/Log",
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "typicode/lowdb",
-    "stargazers_count": 18803,
+    "stargazers_count": 18826,
     "open_issues_count": 4,
     "forks_count": 870
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 64688,
-    "open_issues_count": 653,
-    "forks_count": 6393
+    "stargazers_count": 64750,
+    "open_issues_count": 654,
+    "forks_count": 6396
   },
   {
     "full_name": "EthanRutherford/fast-fuzzy",
@@ -133,33 +133,33 @@
   },
   {
     "full_name": "sindresorhus/awesome-scifi",
-    "stargazers_count": 3557,
+    "stargazers_count": 3558,
     "open_issues_count": 10,
     "forks_count": 241
   },
   {
     "full_name": "cs-books/influential-cs-books",
-    "stargazers_count": 4877,
+    "stargazers_count": 4879,
     "open_issues_count": 6,
-    "forks_count": 442
+    "forks_count": 443
   },
   {
     "full_name": "hackerkid/Mind-Expanding-Books",
-    "stargazers_count": 9553,
-    "open_issues_count": 84,
-    "forks_count": 1027
+    "stargazers_count": 9570,
+    "open_issues_count": 83,
+    "forks_count": 1026
   },
   {
     "full_name": "mdn/content",
-    "stargazers_count": 7166,
-    "open_issues_count": 720,
-    "forks_count": 13958
+    "stargazers_count": 7178,
+    "open_issues_count": 713,
+    "forks_count": 14036
   },
   {
     "full_name": "blueedgetechno/win11React",
-    "stargazers_count": 6915,
-    "open_issues_count": 22,
-    "forks_count": 470
+    "stargazers_count": 6925,
+    "open_issues_count": 23,
+    "forks_count": 469
   },
   {
     "full_name": "maxboeck/mxb",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "a16z/helios",
-    "stargazers_count": 1156,
-    "open_issues_count": 20,
-    "forks_count": 90
+    "stargazers_count": 1169,
+    "open_issues_count": 21,
+    "forks_count": 92
   },
   {
     "full_name": "hiroki0525/idle-task",
-    "stargazers_count": 93,
+    "stargazers_count": 95,
     "open_issues_count": 1,
     "forks_count": 3
   }
