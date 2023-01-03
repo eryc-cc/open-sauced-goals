@@ -1,7 +1,7 @@
 [
   {
     "full_name": "rachsmithcodes/rachsmith.com",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "nostr-protocol/nostr",
-    "stargazers_count": 3471,
+    "stargazers_count": 3581,
     "open_issues_count": 20,
-    "forks_count": 89
+    "forks_count": 93
   },
   {
     "full_name": "jcubic/git",
@@ -39,31 +39,31 @@
     "full_name": "staltz/callbag-basics",
     "stargazers_count": 1647,
     "open_issues_count": 4,
-    "forks_count": 54
+    "forks_count": 55
   },
   {
     "full_name": "paladin-t/fantasy",
-    "stargazers_count": 1096,
+    "stargazers_count": 1097,
     "open_issues_count": 5,
     "forks_count": 66
   },
   {
     "full_name": "XXIIVV/riven",
-    "stargazers_count": 401,
+    "stargazers_count": 400,
     "open_issues_count": 1,
     "forks_count": 34
   },
   {
     "full_name": "XXIIVV/oscean",
-    "stargazers_count": 416,
+    "stargazers_count": 415,
     "open_issues_count": 12,
     "forks_count": 80
   },
   {
     "full_name": "kepano/40-questions",
-    "stargazers_count": 159,
-    "open_issues_count": 1,
-    "forks_count": 36
+    "stargazers_count": 162,
+    "open_issues_count": 0,
+    "forks_count": 37
   },
   {
     "full_name": "v-exec/Log",
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "typicode/lowdb",
-    "stargazers_count": 18854,
+    "stargazers_count": 18870,
     "open_issues_count": 4,
     "forks_count": 871
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 64839,
-    "open_issues_count": 653,
-    "forks_count": 6393
+    "stargazers_count": 64885,
+    "open_issues_count": 654,
+    "forks_count": 6399
   },
   {
     "full_name": "EthanRutherford/fast-fuzzy",
@@ -139,44 +139,44 @@
   },
   {
     "full_name": "sindresorhus/awesome-scifi",
-    "stargazers_count": 3563,
+    "stargazers_count": 3565,
     "open_issues_count": 10,
     "forks_count": 241
   },
   {
     "full_name": "cs-books/influential-cs-books",
-    "stargazers_count": 4885,
+    "stargazers_count": 4893,
     "open_issues_count": 6,
     "forks_count": 442
   },
   {
     "full_name": "hackerkid/Mind-Expanding-Books",
-    "stargazers_count": 9604,
+    "stargazers_count": 9622,
     "open_issues_count": 83,
     "forks_count": 1026
   },
   {
     "full_name": "mdn/content",
-    "stargazers_count": 7196,
-    "open_issues_count": 673,
-    "forks_count": 14203
+    "stargazers_count": 7209,
+    "open_issues_count": 670,
+    "forks_count": 14275
   },
   {
     "full_name": "blueedgetechno/win11React",
-    "stargazers_count": 6942,
+    "stargazers_count": 6961,
     "open_issues_count": 23,
-    "forks_count": 471
+    "forks_count": 469
   },
   {
     "full_name": "maxboeck/mxb",
     "stargazers_count": 480,
-    "open_issues_count": 18,
+    "open_issues_count": 0,
     "forks_count": 75
   },
   {
     "full_name": "a16z/helios",
-    "stargazers_count": 1174,
+    "stargazers_count": 1177,
     "open_issues_count": 22,
-    "forks_count": 94
+    "forks_count": 95
   }
 ]
