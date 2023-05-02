@@ -1,9 +1,9 @@
 [
   {
     "full_name": "Atlas-OS/Atlas",
-    "stargazers_count": 6022,
-    "open_issues_count": 8,
-    "forks_count": 300
+    "stargazers_count": 6520,
+    "open_issues_count": 16,
+    "forks_count": 311
   },
   {
     "full_name": "arielsdesign/design-systems",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 34036,
-    "open_issues_count": 514,
-    "forks_count": 2059
+    "stargazers_count": 34196,
+    "open_issues_count": 530,
+    "forks_count": 2068
   },
   {
     "full_name": "erosson/freecbt",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "dexie/Dexie.js",
-    "stargazers_count": 9186,
+    "stargazers_count": 9195,
     "open_issues_count": 458,
-    "forks_count": 599
+    "forks_count": 600
   },
   {
     "full_name": "ishaan1013/synclist",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "feross/spoof",
-    "stargazers_count": 1673,
+    "stargazers_count": 1675,
     "open_issues_count": 5,
     "forks_count": 105
   },
   {
     "full_name": "emilkowalski/sonner",
-    "stargazers_count": 2383,
+    "stargazers_count": 2398,
     "open_issues_count": 2,
     "forks_count": 43
   },
@@ -61,27 +61,27 @@
   },
   {
     "full_name": "bborn/howdoi.ai",
-    "stargazers_count": 221,
+    "stargazers_count": 223,
     "open_issues_count": 0,
-    "forks_count": 31
+    "forks_count": 34
   },
   {
     "full_name": "chronark/envshare",
-    "stargazers_count": 385,
+    "stargazers_count": 389,
     "open_issues_count": 6,
-    "forks_count": 27
+    "forks_count": 29
   },
   {
     "full_name": "zenorocha/zenorocha.com",
-    "stargazers_count": 294,
+    "stargazers_count": 298,
     "open_issues_count": 3,
-    "forks_count": 48
+    "forks_count": 49
   },
   {
     "full_name": "SerenityOS/serenity",
-    "stargazers_count": 24608,
-    "open_issues_count": 674,
-    "forks_count": 2646
+    "stargazers_count": 24642,
+    "open_issues_count": 683,
+    "forks_count": 2650
   },
   {
     "full_name": "rachsmithcodes/rachsmith.com",
@@ -103,31 +103,31 @@
   },
   {
     "full_name": "nostr-protocol/nostr",
-    "stargazers_count": 7743,
+    "stargazers_count": 7798,
     "open_issues_count": 48,
-    "forks_count": 233
+    "forks_count": 235
   },
   {
     "full_name": "jcubic/git",
     "stargazers_count": 68,
     "open_issues_count": 4,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "callbag/callbag",
-    "stargazers_count": 1534,
+    "stargazers_count": 1533,
     "open_issues_count": 8,
     "forks_count": 38
   },
   {
     "full_name": "staltz/callbag-basics",
-    "stargazers_count": 1651,
+    "stargazers_count": 1650,
     "open_issues_count": 8,
     "forks_count": 55
   },
   {
     "full_name": "paladin-t/fantasy",
-    "stargazers_count": 1150,
+    "stargazers_count": 1154,
     "open_issues_count": 5,
     "forks_count": 65
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "typicode/lowdb",
-    "stargazers_count": 19417,
-    "open_issues_count": 4,
-    "forks_count": 891
+    "stargazers_count": 19431,
+    "open_issues_count": 3,
+    "forks_count": 895
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 66594,
+    "stargazers_count": 66633,
     "open_issues_count": 654,
-    "forks_count": 6559
+    "forks_count": 6561
   }
 ]
