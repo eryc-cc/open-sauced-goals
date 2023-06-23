@@ -1,14 +1,14 @@
 [
   {
     "full_name": "shadcn/ui",
-    "stargazers_count": 21459,
-    "open_issues_count": 332,
-    "forks_count": 925
+    "stargazers_count": 21829,
+    "open_issues_count": 355,
+    "forks_count": 955
   },
   {
     "full_name": "documenso/documenso",
-    "stargazers_count": 2118,
-    "open_issues_count": 55,
+    "stargazers_count": 2146,
+    "open_issues_count": 56,
     "forks_count": 110
   },
   {
@@ -25,31 +25,31 @@
   },
   {
     "full_name": "wanasit/chrono",
-    "stargazers_count": 3252,
+    "stargazers_count": 3253,
     "open_issues_count": 115,
     "forks_count": 335
   },
   {
     "full_name": "open-sauced/guestbook",
     "stargazers_count": 5,
-    "open_issues_count": 2,
-    "forks_count": 19
+    "open_issues_count": 1,
+    "forks_count": 18
   },
   {
     "full_name": "open-sauced/ai",
     "stargazers_count": 22,
-    "open_issues_count": 23,
+    "open_issues_count": 21,
     "forks_count": 15
   },
   {
     "full_name": "raunofreiberg/interfaces",
-    "stargazers_count": 922,
+    "stargazers_count": 930,
     "open_issues_count": 1,
     "forks_count": 13
   },
   {
     "full_name": "Atlas-OS/Atlas",
-    "stargazers_count": 7660,
+    "stargazers_count": 7683,
     "open_issues_count": 11,
     "forks_count": 348
   },
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 35737,
-    "open_issues_count": 486,
-    "forks_count": 2184
+    "stargazers_count": 35794,
+    "open_issues_count": 495,
+    "forks_count": 2188
   },
   {
     "full_name": "erosson/freecbt",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "Charca/view-transitions-live",
-    "stargazers_count": 154,
+    "stargazers_count": 155,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "dexie/Dexie.js",
-    "stargazers_count": 9338,
-    "open_issues_count": 457,
-    "forks_count": 606
+    "stargazers_count": 9346,
+    "open_issues_count": 460,
+    "forks_count": 607
   },
   {
     "full_name": "ishaan1013/synclist",
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "feross/spoof",
-    "stargazers_count": 1690,
+    "stargazers_count": 1692,
     "open_issues_count": 5,
-    "forks_count": 105
+    "forks_count": 106
   },
   {
     "full_name": "emilkowalski/sonner",
-    "stargazers_count": 2776,
+    "stargazers_count": 2803,
     "open_issues_count": 2,
-    "forks_count": 49
+    "forks_count": 51
   },
   {
     "full_name": "takanome-dev/film-fiesta",
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "bborn/howdoi.ai",
-    "stargazers_count": 247,
+    "stargazers_count": 248,
     "open_issues_count": 0,
     "forks_count": 42
   },
   {
     "full_name": "chronark/envshare",
-    "stargazers_count": 414,
+    "stargazers_count": 419,
     "open_issues_count": 6,
-    "forks_count": 34
+    "forks_count": 37
   },
   {
     "full_name": "zenorocha/zenorocha.com",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "SerenityOS/serenity",
-    "stargazers_count": 25132,
-    "open_issues_count": 695,
-    "forks_count": 2725
+    "stargazers_count": 25207,
+    "open_issues_count": 699,
+    "forks_count": 2745
   },
   {
     "full_name": "rachsmithcodes/rachsmith.com",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "nostr-protocol/nostr",
-    "stargazers_count": 8205,
+    "stargazers_count": 8218,
     "open_issues_count": 50,
     "forks_count": 249
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "paladin-t/fantasy",
-    "stargazers_count": 1175,
+    "stargazers_count": 1174,
     "open_issues_count": 5,
     "forks_count": 65
   }
