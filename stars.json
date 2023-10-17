@@ -1,25 +1,31 @@
 [
   {
+    "full_name": "bvvst/vanishso",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "rafunderscore/Layers",
-    "stargazers_count": 122,
+    "stargazers_count": 124,
     "open_issues_count": 8,
     "forks_count": 4
   },
   {
     "full_name": "denysdovhan/wtfjs",
-    "stargazers_count": 32377,
+    "stargazers_count": 32402,
     "open_issues_count": 33,
-    "forks_count": 2458
+    "forks_count": 2463
   },
   {
     "full_name": "parallax/jsPDF",
-    "stargazers_count": 27396,
-    "open_issues_count": 176,
-    "forks_count": 4648
+    "stargazers_count": 27417,
+    "open_issues_count": 175,
+    "forks_count": 4652
   },
   {
     "full_name": "evilmartians/mono",
-    "stargazers_count": 1850,
+    "stargazers_count": 1853,
     "open_issues_count": 6,
     "forks_count": 19
   },
@@ -31,39 +37,39 @@
   },
   {
     "full_name": "delucis/astro-og-canvas",
-    "stargazers_count": 50,
-    "open_issues_count": 0,
-    "forks_count": 6
+    "stargazers_count": 51,
+    "open_issues_count": 1,
+    "forks_count": 7
   },
   {
     "full_name": "jesseduffield/horcrux",
-    "stargazers_count": 4228,
+    "stargazers_count": 4235,
     "open_issues_count": 14,
     "forks_count": 103
   },
   {
     "full_name": "withastro/astro.build",
-    "stargazers_count": 259,
-    "open_issues_count": 10,
+    "stargazers_count": 260,
+    "open_issues_count": 14,
     "forks_count": 100
   },
   {
     "full_name": "jakearchibald/idb-keyval",
-    "stargazers_count": 2378,
+    "stargazers_count": 2384,
     "open_issues_count": 20,
     "forks_count": 136
   },
   {
     "full_name": "jakearchibald/idb",
-    "stargazers_count": 5545,
+    "stargazers_count": 5553,
     "open_issues_count": 29,
-    "forks_count": 345
+    "forks_count": 344
   },
   {
     "full_name": "withastro/starlight",
-    "stargazers_count": 2100,
-    "open_issues_count": 62,
-    "forks_count": 203
+    "stargazers_count": 2126,
+    "open_issues_count": 74,
+    "forks_count": 209
   },
   {
     "full_name": "thundernixon/Libre-Caslon",
@@ -79,32 +85,32 @@
   },
   {
     "full_name": "ertekinno/haskoy",
-    "stargazers_count": 155,
+    "stargazers_count": 156,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "apple/swift",
-    "stargazers_count": 64218,
-    "open_issues_count": 6781,
-    "forks_count": 10316
+    "stargazers_count": 64252,
+    "open_issues_count": 6790,
+    "forks_count": 10318
   },
   {
     "full_name": "learn-anything/books",
-    "stargazers_count": 4973,
+    "stargazers_count": 4987,
     "open_issues_count": 9,
     "forks_count": 641
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 23825,
-    "open_issues_count": 603,
-    "forks_count": 4322
+    "stargazers_count": 23880,
+    "open_issues_count": 619,
+    "forks_count": 4327
   },
   {
     "full_name": "emilkowalski/vaul",
-    "stargazers_count": 2879,
-    "open_issues_count": 5,
+    "stargazers_count": 2901,
+    "open_issues_count": 6,
     "forks_count": 64
   },
   {
@@ -115,27 +121,27 @@
   },
   {
     "full_name": "twitter/communitynotes",
-    "stargazers_count": 895,
+    "stargazers_count": 901,
     "open_issues_count": 20,
     "forks_count": 135
   },
   {
     "full_name": "oskarrough/slaytheweb",
-    "stargazers_count": 134,
+    "stargazers_count": 135,
     "open_issues_count": 15,
     "forks_count": 29
   },
   {
     "full_name": "tubearchivist/tubearchivist",
-    "stargazers_count": 3313,
+    "stargazers_count": 3336,
     "open_issues_count": 17,
-    "forks_count": 159
+    "forks_count": 160
   },
   {
     "full_name": "css-doodle/css-doodle",
-    "stargazers_count": 5264,
+    "stargazers_count": 5265,
     "open_issues_count": 12,
-    "forks_count": 207
+    "forks_count": 208
   },
   {
     "full_name": "gammesB/tiny-slider-withfixes",
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "pacocoursey/writer",
-    "stargazers_count": 400,
+    "stargazers_count": 401,
     "open_issues_count": 0,
     "forks_count": 21
   },
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 33151,
-    "open_issues_count": 811,
-    "forks_count": 1641
+    "stargazers_count": 33391,
+    "open_issues_count": 816,
+    "forks_count": 1648
   },
   {
     "full_name": "documenso/documenso",
-    "stargazers_count": 4307,
+    "stargazers_count": 4348,
     "open_issues_count": 132,
-    "forks_count": 338
+    "forks_count": 349
   },
   {
     "full_name": "sebsan/Bagnard",
     "stargazers_count": 111,
     "open_issues_count": 6,
     "forks_count": 12
-  },
-  {
-    "full_name": "sebsan/Bagnard-Sans",
-    "stargazers_count": 37,
-    "open_issues_count": 2,
-    "forks_count": 2
   }
 ]
