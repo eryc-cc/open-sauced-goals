@@ -2,7 +2,7 @@
   {
     "full_name": "MaggieAppleton/arbour",
     "stargazers_count": 1,
-    "open_issues_count": 12,
+    "open_issues_count": 11,
     "forks_count": 1
   },
   {
@@ -13,14 +13,14 @@
   },
   {
     "full_name": "muan/site",
-    "stargazers_count": 344,
+    "stargazers_count": 345,
     "open_issues_count": 0,
     "forks_count": 128
   },
   {
     "full_name": "Fyrd/caniuse",
-    "stargazers_count": 5389,
-    "open_issues_count": 858,
+    "stargazers_count": 5390,
+    "open_issues_count": 860,
     "forks_count": 1415
   },
   {
@@ -49,26 +49,26 @@
   },
   {
     "full_name": "rafunderscore/Layers",
-    "stargazers_count": 161,
+    "stargazers_count": 162,
     "open_issues_count": 8,
     "forks_count": 5
   },
   {
     "full_name": "denysdovhan/wtfjs",
-    "stargazers_count": 32807,
+    "stargazers_count": 32873,
     "open_issues_count": 35,
-    "forks_count": 2506
+    "forks_count": 2511
   },
   {
     "full_name": "parallax/jsPDF",
-    "stargazers_count": 27661,
-    "open_issues_count": 176,
-    "forks_count": 4690
+    "stargazers_count": 27681,
+    "open_issues_count": 177,
+    "forks_count": 4692
   },
   {
     "full_name": "evilmartians/mono",
-    "stargazers_count": 1930,
-    "open_issues_count": 6,
+    "stargazers_count": 1932,
+    "open_issues_count": 7,
     "forks_count": 20
   },
   {
@@ -79,39 +79,39 @@
   },
   {
     "full_name": "delucis/astro-og-canvas",
-    "stargazers_count": 70,
-    "open_issues_count": 4,
+    "stargazers_count": 73,
+    "open_issues_count": 2,
     "forks_count": 10
   },
   {
     "full_name": "jesseduffield/horcrux",
-    "stargazers_count": 4286,
+    "stargazers_count": 4290,
     "open_issues_count": 14,
     "forks_count": 106
   },
   {
     "full_name": "withastro/astro.build",
     "stargazers_count": 268,
-    "open_issues_count": 11,
-    "forks_count": 113
+    "open_issues_count": 14,
+    "forks_count": 114
   },
   {
     "full_name": "jakearchibald/idb-keyval",
-    "stargazers_count": 2430,
+    "stargazers_count": 2435,
     "open_issues_count": 20,
     "forks_count": 142
   },
   {
     "full_name": "jakearchibald/idb",
-    "stargazers_count": 5618,
-    "open_issues_count": 31,
+    "stargazers_count": 5628,
+    "open_issues_count": 29,
     "forks_count": 349
   },
   {
     "full_name": "withastro/starlight",
-    "stargazers_count": 2351,
-    "open_issues_count": 29,
-    "forks_count": 246
+    "stargazers_count": 2366,
+    "open_issues_count": 42,
+    "forks_count": 253
   },
   {
     "full_name": "thundernixon/Libre-Caslon",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "ertekinno/libre-caslon-condensed",
-    "stargazers_count": 438,
+    "stargazers_count": 439,
     "open_issues_count": 2,
     "forks_count": 8
   },
@@ -133,27 +133,27 @@
   },
   {
     "full_name": "apple/swift",
-    "stargazers_count": 64598,
-    "open_issues_count": 6921,
-    "forks_count": 10367
+    "stargazers_count": 64620,
+    "open_issues_count": 6918,
+    "forks_count": 10368
   },
   {
     "full_name": "learn-anything/books",
-    "stargazers_count": 5091,
+    "stargazers_count": 5102,
     "open_issues_count": 9,
-    "forks_count": 651
+    "forks_count": 654
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 24793,
-    "open_issues_count": 632,
-    "forks_count": 4412
+    "stargazers_count": 24860,
+    "open_issues_count": 627,
+    "forks_count": 4423
   },
   {
     "full_name": "emilkowalski/vaul",
-    "stargazers_count": 3270,
-    "open_issues_count": 12,
-    "forks_count": 69
+    "stargazers_count": 3284,
+    "open_issues_count": 8,
+    "forks_count": 70
   },
   {
     "full_name": "millerhooks/awesome-hci",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "twitter/communitynotes",
-    "stargazers_count": 1049,
-    "open_issues_count": 26,
-    "forks_count": 151
+    "stargazers_count": 1062,
+    "open_issues_count": 27,
+    "forks_count": 152
   },
   {
     "full_name": "oskarrough/slaytheweb",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "tubearchivist/tubearchivist",
-    "stargazers_count": 3540,
-    "open_issues_count": 26,
+    "stargazers_count": 3554,
+    "open_issues_count": 23,
     "forks_count": 172
   }
 ]
