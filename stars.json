@@ -14,14 +14,14 @@
   {
     "full_name": "muan/site",
     "stargazers_count": 345,
-    "open_issues_count": 0,
-    "forks_count": 128
+    "open_issues_count": 1,
+    "forks_count": 129
   },
   {
     "full_name": "Fyrd/caniuse",
-    "stargazers_count": 5390,
-    "open_issues_count": 860,
-    "forks_count": 1415
+    "stargazers_count": 5392,
+    "open_issues_count": 861,
+    "forks_count": 1417
   },
   {
     "full_name": "jordansinger/rdio-macos-swiftui-sample",
@@ -49,25 +49,25 @@
   },
   {
     "full_name": "rafunderscore/Layers",
-    "stargazers_count": 162,
+    "stargazers_count": 163,
     "open_issues_count": 8,
     "forks_count": 5
   },
   {
     "full_name": "denysdovhan/wtfjs",
-    "stargazers_count": 32960,
+    "stargazers_count": 33004,
     "open_issues_count": 35,
-    "forks_count": 2518
+    "forks_count": 2522
   },
   {
     "full_name": "parallax/jsPDF",
-    "stargazers_count": 27693,
+    "stargazers_count": 27706,
     "open_issues_count": 178,
-    "forks_count": 4690
+    "forks_count": 4689
   },
   {
     "full_name": "evilmartians/mono",
-    "stargazers_count": 1932,
+    "stargazers_count": 1934,
     "open_issues_count": 7,
     "forks_count": 20
   },
@@ -79,39 +79,39 @@
   },
   {
     "full_name": "delucis/astro-og-canvas",
-    "stargazers_count": 76,
+    "stargazers_count": 78,
     "open_issues_count": 2,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "jesseduffield/horcrux",
-    "stargazers_count": 4298,
+    "stargazers_count": 4302,
     "open_issues_count": 15,
     "forks_count": 106
   },
   {
     "full_name": "withastro/astro.build",
-    "stargazers_count": 270,
-    "open_issues_count": 13,
+    "stargazers_count": 272,
+    "open_issues_count": 16,
     "forks_count": 115
   },
   {
     "full_name": "jakearchibald/idb-keyval",
-    "stargazers_count": 2437,
+    "stargazers_count": 2444,
     "open_issues_count": 20,
     "forks_count": 143
   },
   {
     "full_name": "jakearchibald/idb",
-    "stargazers_count": 5638,
+    "stargazers_count": 5644,
     "open_issues_count": 30,
     "forks_count": 349
   },
   {
     "full_name": "withastro/starlight",
-    "stargazers_count": 2413,
-    "open_issues_count": 44,
-    "forks_count": 257
+    "stargazers_count": 2446,
+    "open_issues_count": 51,
+    "forks_count": 265
   },
   {
     "full_name": "thundernixon/Libre-Caslon",
@@ -127,33 +127,33 @@
   },
   {
     "full_name": "ertekinno/haskoy",
-    "stargazers_count": 166,
+    "stargazers_count": 168,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "apple/swift",
-    "stargazers_count": 64647,
-    "open_issues_count": 6929,
-    "forks_count": 10370
+    "stargazers_count": 64685,
+    "open_issues_count": 6956,
+    "forks_count": 10378
   },
   {
     "full_name": "learn-anything/books",
-    "stargazers_count": 5108,
+    "stargazers_count": 5116,
     "open_issues_count": 9,
     "forks_count": 656
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 24935,
-    "open_issues_count": 634,
-    "forks_count": 4433
+    "stargazers_count": 25012,
+    "open_issues_count": 621,
+    "forks_count": 4435
   },
   {
     "full_name": "emilkowalski/vaul",
-    "stargazers_count": 3298,
-    "open_issues_count": 7,
-    "forks_count": 70
+    "stargazers_count": 3321,
+    "open_issues_count": 8,
+    "forks_count": 72
   },
   {
     "full_name": "millerhooks/awesome-hci",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "twitter/communitynotes",
-    "stargazers_count": 1069,
-    "open_issues_count": 24,
-    "forks_count": 152
+    "stargazers_count": 1085,
+    "open_issues_count": 25,
+    "forks_count": 153
   },
   {
     "full_name": "oskarrough/slaytheweb",
-    "stargazers_count": 144,
+    "stargazers_count": 145,
     "open_issues_count": 15,
     "forks_count": 35
   },
   {
     "full_name": "tubearchivist/tubearchivist",
-    "stargazers_count": 3566,
-    "open_issues_count": 26,
+    "stargazers_count": 3579,
+    "open_issues_count": 28,
     "forks_count": 172
   }
 ]
