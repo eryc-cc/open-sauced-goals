@@ -1,7 +1,7 @@
 [
   {
     "full_name": "whopio/frosted-ui",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 2,
     "forks_count": 0
   },
@@ -55,8 +55,8 @@
   },
   {
     "full_name": "Fyrd/caniuse",
-    "stargazers_count": 5471,
-    "open_issues_count": 880,
+    "stargazers_count": 5473,
+    "open_issues_count": 884,
     "forks_count": 1361
   },
   {
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "denysdovhan/wtfjs",
-    "stargazers_count": 33484,
+    "stargazers_count": 33496,
     "open_issues_count": 36,
-    "forks_count": 2482
+    "forks_count": 2484
   },
   {
     "full_name": "parallax/jsPDF",
-    "stargazers_count": 28095,
+    "stargazers_count": 28108,
     "open_issues_count": 187,
-    "forks_count": 4594
+    "forks_count": 4593
   },
   {
     "full_name": "evilmartians/mono",
-    "stargazers_count": 1979,
-    "open_issues_count": 7,
-    "forks_count": 21
+    "stargazers_count": 1982,
+    "open_issues_count": 8,
+    "forks_count": 20
   },
   {
     "full_name": "frrrnd/viewport",
@@ -115,39 +115,39 @@
   },
   {
     "full_name": "delucis/astro-og-canvas",
-    "stargazers_count": 98,
+    "stargazers_count": 100,
     "open_issues_count": 2,
     "forks_count": 14
   },
   {
     "full_name": "jesseduffield/horcrux",
-    "stargazers_count": 4409,
+    "stargazers_count": 4411,
     "open_issues_count": 15,
-    "forks_count": 110
+    "forks_count": 108
   },
   {
     "full_name": "withastro/astro.build",
     "stargazers_count": 302,
-    "open_issues_count": 8,
+    "open_issues_count": 10,
     "forks_count": 124
   },
   {
     "full_name": "jakearchibald/idb-keyval",
-    "stargazers_count": 2521,
+    "stargazers_count": 2524,
     "open_issues_count": 20,
     "forks_count": 145
   },
   {
     "full_name": "jakearchibald/idb",
-    "stargazers_count": 5909,
+    "stargazers_count": 5916,
     "open_issues_count": 33,
     "forks_count": 342
   },
   {
     "full_name": "withastro/starlight",
-    "stargazers_count": 3173,
-    "open_issues_count": 20,
-    "forks_count": 336
+    "stargazers_count": 3199,
+    "open_issues_count": 24,
+    "forks_count": 339
   },
   {
     "full_name": "thundernixon/Libre-Caslon",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "apple/swift",
-    "stargazers_count": 65429,
-    "open_issues_count": 7127,
-    "forks_count": 10120
+    "stargazers_count": 65467,
+    "open_issues_count": 7132,
+    "forks_count": 10123
   },
   {
     "full_name": "learn-anything/books",
-    "stargazers_count": 5323,
+    "stargazers_count": 5326,
     "open_issues_count": 9,
-    "forks_count": 655
+    "forks_count": 659
   }
 ]
