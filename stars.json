@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "rescomputer/res-ios",
+    "stargazers_count": 7,
+    "open_issues_count": 27,
+    "forks_count": 0
+  },
+  {
     "full_name": "martrapp/astro-vtbot",
-    "stargazers_count": 84,
-    "open_issues_count": 1,
+    "stargazers_count": 89,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
@@ -13,15 +19,15 @@
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 289176,
-    "open_issues_count": 57,
-    "forks_count": 73377
+    "stargazers_count": 289927,
+    "open_issues_count": 56,
+    "forks_count": 73556
   },
   {
     "full_name": "astrolicious/astro-tips.dev",
-    "stargazers_count": 35,
-    "open_issues_count": 22,
-    "forks_count": 4
+    "stargazers_count": 41,
+    "open_issues_count": 27,
+    "forks_count": 5
   },
   {
     "full_name": "hugooliveirad/shadcn-ui",
@@ -32,12 +38,12 @@
   {
     "full_name": "lumen-notes/lumen",
     "stargazers_count": 320,
-    "open_issues_count": 57,
+    "open_issues_count": 54,
     "forks_count": 18
   },
   {
     "full_name": "shishkin/astro-pagefind",
-    "stargazers_count": 144,
+    "stargazers_count": 149,
     "open_issues_count": 9,
     "forks_count": 11
   },
@@ -73,7 +79,7 @@
   },
   {
     "full_name": "sketch-hq/sketch-document",
-    "stargazers_count": 181,
+    "stargazers_count": 182,
     "open_issues_count": 6,
     "forks_count": 18
   },
@@ -91,13 +97,13 @@
   },
   {
     "full_name": "muan/site",
-    "stargazers_count": 363,
+    "stargazers_count": 365,
     "open_issues_count": 1,
     "forks_count": 123
   },
   {
     "full_name": "Fyrd/caniuse",
-    "stargazers_count": 5499,
+    "stargazers_count": 5498,
     "open_issues_count": 887,
     "forks_count": 1358
   },
@@ -133,14 +139,14 @@
   },
   {
     "full_name": "denysdovhan/wtfjs",
-    "stargazers_count": 33984,
+    "stargazers_count": 34002,
     "open_issues_count": 36,
-    "forks_count": 2504
+    "forks_count": 2503
   },
   {
     "full_name": "parallax/jsPDF",
-    "stargazers_count": 28368,
-    "open_issues_count": 178,
+    "stargazers_count": 28379,
+    "open_issues_count": 180,
     "forks_count": 4604
   },
   {
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "delucis/astro-og-canvas",
-    "stargazers_count": 121,
+    "stargazers_count": 122,
     "open_issues_count": 4,
     "forks_count": 15
   },
   {
     "full_name": "jesseduffield/horcrux",
-    "stargazers_count": 4459,
-    "open_issues_count": 18,
-    "forks_count": 112
+    "stargazers_count": 4457,
+    "open_issues_count": 17,
+    "forks_count": 113
   },
   {
     "full_name": "withastro/astro.build",
-    "stargazers_count": 325,
-    "open_issues_count": 10,
-    "forks_count": 132
-  },
-  {
-    "full_name": "jakearchibald/idb-keyval",
-    "stargazers_count": 2588,
-    "open_issues_count": 21,
-    "forks_count": 142
+    "stargazers_count": 326,
+    "open_issues_count": 9,
+    "forks_count": 131
   }
 ]
