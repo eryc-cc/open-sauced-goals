@@ -1,31 +1,43 @@
 [
   {
+    "full_name": "frrrnd/frnd",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "astrolicious/i18n",
+    "stargazers_count": 28,
+    "open_issues_count": 6,
+    "forks_count": 1
+  },
+  {
     "full_name": "rescomputer/res-ios",
-    "stargazers_count": 7,
+    "stargazers_count": 9,
     "open_issues_count": 27,
     "forks_count": 0
   },
   {
     "full_name": "martrapp/astro-vtbot",
-    "stargazers_count": 89,
-    "open_issues_count": 2,
+    "stargazers_count": 90,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "nowaythatworked/auth-astro",
-    "stargazers_count": 226,
+    "stargazers_count": 228,
     "open_issues_count": 25,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 289927,
-    "open_issues_count": 56,
-    "forks_count": 73556
+    "stargazers_count": 290541,
+    "open_issues_count": 53,
+    "forks_count": 73643
   },
   {
     "full_name": "astrolicious/astro-tips.dev",
-    "stargazers_count": 41,
+    "stargazers_count": 45,
     "open_issues_count": 27,
     "forks_count": 5
   },
@@ -37,19 +49,19 @@
   },
   {
     "full_name": "lumen-notes/lumen",
-    "stargazers_count": 320,
-    "open_issues_count": 54,
+    "stargazers_count": 323,
+    "open_issues_count": 53,
     "forks_count": 18
   },
   {
     "full_name": "shishkin/astro-pagefind",
-    "stargazers_count": 149,
+    "stargazers_count": 152,
     "open_issues_count": 9,
     "forks_count": 11
   },
   {
     "full_name": "whopio/frosted-ui",
-    "stargazers_count": 75,
+    "stargazers_count": 77,
     "open_issues_count": 2,
     "forks_count": 2
   },
@@ -103,9 +115,9 @@
   },
   {
     "full_name": "Fyrd/caniuse",
-    "stargazers_count": 5498,
-    "open_issues_count": 887,
-    "forks_count": 1358
+    "stargazers_count": 5501,
+    "open_issues_count": 883,
+    "forks_count": 1360
   },
   {
     "full_name": "jordansinger/rdio-macos-swiftui-sample",
@@ -139,19 +151,19 @@
   },
   {
     "full_name": "denysdovhan/wtfjs",
-    "stargazers_count": 34002,
+    "stargazers_count": 34014,
     "open_issues_count": 36,
-    "forks_count": 2503
+    "forks_count": 2504
   },
   {
     "full_name": "parallax/jsPDF",
-    "stargazers_count": 28379,
+    "stargazers_count": 28386,
     "open_issues_count": 180,
     "forks_count": 4604
   },
   {
     "full_name": "evilmartians/mono",
-    "stargazers_count": 2019,
+    "stargazers_count": 2024,
     "open_issues_count": 7,
     "forks_count": 20
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 122,
     "open_issues_count": 4,
     "forks_count": 15
-  },
-  {
-    "full_name": "jesseduffield/horcrux",
-    "stargazers_count": 4457,
-    "open_issues_count": 17,
-    "forks_count": 113
-  },
-  {
-    "full_name": "withastro/astro.build",
-    "stargazers_count": 326,
-    "open_issues_count": 9,
-    "forks_count": 131
   }
 ]
