@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "simple-icons/simple-icons",
+    "stargazers_count": 18192,
+    "open_issues_count": 585,
+    "forks_count": 2470
+  },
+  {
     "full_name": "frrrnd/frnd",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,38 +13,38 @@
   },
   {
     "full_name": "astrolicious/i18n",
-    "stargazers_count": 28,
-    "open_issues_count": 7,
+    "stargazers_count": 30,
+    "open_issues_count": 5,
     "forks_count": 1
   },
   {
     "full_name": "rescomputer/res-ios",
-    "stargazers_count": 12,
-    "open_issues_count": 28,
+    "stargazers_count": 17,
+    "open_issues_count": 30,
     "forks_count": 0
   },
   {
     "full_name": "martrapp/astro-vtbot",
-    "stargazers_count": 92,
-    "open_issues_count": 1,
+    "stargazers_count": 96,
+    "open_issues_count": 4,
     "forks_count": 1
   },
   {
     "full_name": "nowaythatworked/auth-astro",
-    "stargazers_count": 230,
+    "stargazers_count": 231,
     "open_issues_count": 26,
     "forks_count": 34
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 290877,
-    "open_issues_count": 53,
-    "forks_count": 73707
+    "stargazers_count": 291276,
+    "open_issues_count": 45,
+    "forks_count": 73793
   },
   {
     "full_name": "astrolicious/astro-tips.dev",
     "stargazers_count": 45,
-    "open_issues_count": 26,
+    "open_issues_count": 28,
     "forks_count": 5
   },
   {
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "lumen-notes/lumen",
-    "stargazers_count": 322,
+    "stargazers_count": 325,
     "open_issues_count": 54,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "shishkin/astro-pagefind",
@@ -109,15 +115,15 @@
   },
   {
     "full_name": "muan/site",
-    "stargazers_count": 364,
+    "stargazers_count": 365,
     "open_issues_count": 1,
     "forks_count": 123
   },
   {
     "full_name": "Fyrd/caniuse",
-    "stargazers_count": 5505,
+    "stargazers_count": 5510,
     "open_issues_count": 883,
-    "forks_count": 1362
+    "forks_count": 1363
   },
   {
     "full_name": "jordansinger/rdio-macos-swiftui-sample",
@@ -139,31 +145,31 @@
   },
   {
     "full_name": "bvvst/vanishso",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "rafunderscore/Layers",
-    "stargazers_count": 185,
+    "stargazers_count": 187,
     "open_issues_count": 8,
     "forks_count": 5
   },
   {
     "full_name": "denysdovhan/wtfjs",
-    "stargazers_count": 34018,
+    "stargazers_count": 34029,
     "open_issues_count": 36,
-    "forks_count": 2506
+    "forks_count": 2510
   },
   {
     "full_name": "parallax/jsPDF",
-    "stargazers_count": 28391,
-    "open_issues_count": 180,
-    "forks_count": 4603
+    "stargazers_count": 28406,
+    "open_issues_count": 179,
+    "forks_count": 4602
   },
   {
     "full_name": "evilmartians/mono",
-    "stargazers_count": 2026,
+    "stargazers_count": 2025,
     "open_issues_count": 7,
     "forks_count": 20
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 3,
     "forks_count": 1
-  },
-  {
-    "full_name": "delucis/astro-og-canvas",
-    "stargazers_count": 123,
-    "open_issues_count": 4,
-    "forks_count": 15
   }
 ]
