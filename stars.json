@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "mainframecomputer/orchestra",
+    "stargazers_count": 294,
+    "open_issues_count": 1,
+    "forks_count": 21
+  },
+  {
     "full_name": "qvantor/waveditor",
     "stargazers_count": 29,
     "open_issues_count": 0,
@@ -13,13 +19,13 @@
   },
   {
     "full_name": "plugdata-team/plugdata",
-    "stargazers_count": 1646,
-    "open_issues_count": 164,
+    "stargazers_count": 1651,
+    "open_issues_count": 166,
     "forks_count": 68
   },
   {
     "full_name": "dkpfm/minitap",
-    "stargazers_count": 163,
+    "stargazers_count": 165,
     "open_issues_count": 1,
     "forks_count": 9
   },
@@ -49,33 +55,33 @@
   },
   {
     "full_name": "EmergeTools/Pow",
-    "stargazers_count": 3709,
+    "stargazers_count": 3712,
     "open_issues_count": 18,
     "forks_count": 153
   },
   {
     "full_name": "robb/Cartography",
-    "stargazers_count": 7336,
+    "stargazers_count": 7337,
     "open_issues_count": 68,
     "forks_count": 526
   },
   {
     "full_name": "pqoqubbw/icons",
-    "stargazers_count": 3385,
+    "stargazers_count": 3418,
     "open_issues_count": 2,
     "forks_count": 95
   },
   {
     "full_name": "typesense/typesense",
-    "stargazers_count": 21676,
-    "open_issues_count": 617,
-    "forks_count": 670
+    "stargazers_count": 21697,
+    "open_issues_count": 623,
+    "forks_count": 672
   },
   {
     "full_name": "iina/iina",
-    "stargazers_count": 38880,
-    "open_issues_count": 1766,
-    "forks_count": 2589
+    "stargazers_count": 38926,
+    "open_issues_count": 1767,
+    "forks_count": 2591
   },
   {
     "full_name": "remvze/nothing",
@@ -85,13 +91,13 @@
   },
   {
     "full_name": "darkroomengineering/lenis",
-    "stargazers_count": 9405,
-    "open_issues_count": 18,
+    "stargazers_count": 9418,
+    "open_issues_count": 15,
     "forks_count": 395
   },
   {
     "full_name": "mikelikesdesign/SwiftUI-experiments",
-    "stargazers_count": 1355,
+    "stargazers_count": 1363,
     "open_issues_count": 0,
     "forks_count": 63
   },
@@ -103,8 +109,8 @@
   },
   {
     "full_name": "orioncactus/pretendard",
-    "stargazers_count": 2791,
-    "open_issues_count": 25,
+    "stargazers_count": 2796,
+    "open_issues_count": 26,
     "forks_count": 159
   },
   {
@@ -115,13 +121,13 @@
   },
   {
     "full_name": "openstatusHQ/time-picker",
-    "stargazers_count": 703,
+    "stargazers_count": 704,
     "open_issues_count": 5,
     "forks_count": 24
   },
   {
     "full_name": "jamiebuilds/tinykeys",
-    "stargazers_count": 3822,
+    "stargazers_count": 3823,
     "open_issues_count": 29,
     "forks_count": 82
   },
@@ -133,38 +139,38 @@
   },
   {
     "full_name": "ente-io/ente",
-    "stargazers_count": 17069,
-    "open_issues_count": 275,
-    "forks_count": 899
+    "stargazers_count": 17116,
+    "open_issues_count": 272,
+    "forks_count": 904
   },
   {
     "full_name": "barvian/number-flow",
-    "stargazers_count": 5127,
-    "open_issues_count": 5,
+    "stargazers_count": 5162,
+    "open_issues_count": 6,
     "forks_count": 79
   },
   {
     "full_name": "vercel/little-date",
-    "stargazers_count": 1875,
+    "stargazers_count": 1876,
     "open_issues_count": 9,
-    "forks_count": 17
+    "forks_count": 18
   },
   {
     "full_name": "dottxt-ai/outlines",
-    "stargazers_count": 10238,
-    "open_issues_count": 265,
-    "forks_count": 533
+    "stargazers_count": 10275,
+    "open_issues_count": 268,
+    "forks_count": 538
   },
   {
     "full_name": "fulldotdev/ui",
-    "stargazers_count": 307,
+    "stargazers_count": 308,
     "open_issues_count": 1,
     "forks_count": 15
   },
   {
     "full_name": "evadecker/eva.town",
-    "stargazers_count": 113,
-    "open_issues_count": 7,
+    "stargazers_count": 116,
+    "open_issues_count": 6,
     "forks_count": 3
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "lukePeavey/SplitType",
-    "stargazers_count": 604,
-    "open_issues_count": 28,
-    "forks_count": 41
   }
 ]
