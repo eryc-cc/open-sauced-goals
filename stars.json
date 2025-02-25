@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "mrdoob/three.js",
+    "stargazers_count": 104494,
+    "open_issues_count": 556,
+    "forks_count": 35565
+  },
+  {
     "full_name": "paper-design/shaders",
-    "stargazers_count": 396,
-    "open_issues_count": 5,
+    "stargazers_count": 422,
+    "open_issues_count": 6,
     "forks_count": 9
   },
   {
@@ -13,13 +19,13 @@
   },
   {
     "full_name": "rt64/rt64",
-    "stargazers_count": 1229,
-    "open_issues_count": 43,
-    "forks_count": 50
+    "stargazers_count": 1260,
+    "open_issues_count": 44,
+    "forks_count": 51
   },
   {
     "full_name": "FlineDev/BartyCrouch",
-    "stargazers_count": 1386,
+    "stargazers_count": 1388,
     "open_issues_count": 42,
     "forks_count": 120
   },
@@ -31,21 +37,21 @@
   },
   {
     "full_name": "paper-design/liquid-logo",
-    "stargazers_count": 231,
-    "open_issues_count": 5,
-    "forks_count": 23
+    "stargazers_count": 345,
+    "open_issues_count": 6,
+    "forks_count": 31
   },
   {
     "full_name": "yaslab/CSV.swift",
-    "stargazers_count": 686,
+    "stargazers_count": 687,
     "open_issues_count": 24,
     "forks_count": 81
   },
   {
     "full_name": "siyuan-note/siyuan",
-    "stargazers_count": 29531,
-    "open_issues_count": 334,
-    "forks_count": 1910
+    "stargazers_count": 31392,
+    "open_issues_count": 330,
+    "forks_count": 1943
   },
   {
     "full_name": "devxoul/Then",
@@ -55,9 +61,9 @@
   },
   {
     "full_name": "tinacms/tinacms",
-    "stargazers_count": 12320,
-    "open_issues_count": 205,
-    "forks_count": 629
+    "stargazers_count": 12328,
+    "open_issues_count": 206,
+    "forks_count": 628
   },
   {
     "full_name": "importantimport/fff",
@@ -67,15 +73,15 @@
   },
   {
     "full_name": "DS4SD/docling",
-    "stargazers_count": 21598,
-    "open_issues_count": 170,
-    "forks_count": 1210
+    "stargazers_count": 22053,
+    "open_issues_count": 174,
+    "forks_count": 1256
   },
   {
     "full_name": "Mail-0/Mail-0",
-    "stargazers_count": 2687,
-    "open_issues_count": 33,
-    "forks_count": 227
+    "stargazers_count": 3064,
+    "open_issues_count": 45,
+    "forks_count": 251
   },
   {
     "full_name": "fabe/site",
@@ -85,33 +91,33 @@
   },
   {
     "full_name": "huggingface/agents-course",
-    "stargazers_count": 11357,
-    "open_issues_count": 58,
-    "forks_count": 645
+    "stargazers_count": 12075,
+    "open_issues_count": 47,
+    "forks_count": 694
   },
   {
     "full_name": "pointfreeco/swift-tagged",
-    "stargazers_count": 1438,
+    "stargazers_count": 1440,
     "open_issues_count": 4,
     "forks_count": 65
   },
   {
     "full_name": "mainframecomputer/fullmoon-ios",
-    "stargazers_count": 1775,
-    "open_issues_count": 39,
-    "forks_count": 158
+    "stargazers_count": 1801,
+    "open_issues_count": 41,
+    "forks_count": 159
   },
   {
     "full_name": "alanagoyal/messages",
-    "stargazers_count": 120,
+    "stargazers_count": 122,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "maybe-finance/maybe",
-    "stargazers_count": 40123,
-    "open_issues_count": 51,
-    "forks_count": 2855
+    "stargazers_count": 40607,
+    "open_issues_count": 29,
+    "forks_count": 2880
   },
   {
     "full_name": "tyler6204/XCursor",
@@ -121,33 +127,33 @@
   },
   {
     "full_name": "FuzzyIdeas/IsThereNet",
-    "stargazers_count": 122,
+    "stargazers_count": 124,
     "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "FuzzyIdeas/Clop",
-    "stargazers_count": 901,
+    "stargazers_count": 908,
     "open_issues_count": 1,
     "forks_count": 30
   },
   {
     "full_name": "FuzzyIdeas/YellowDot",
-    "stargazers_count": 131,
+    "stargazers_count": 132,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "FuzzyIdeas/StartupFolder",
-    "stargazers_count": 210,
+    "stargazers_count": 212,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "multimodal-art-projection/YuE",
-    "stargazers_count": 3886,
-    "open_issues_count": 31,
-    "forks_count": 423
+    "stargazers_count": 3985,
+    "open_issues_count": 32,
+    "forks_count": 427
   },
   {
     "full_name": "harfyzz/CircularTimer",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "shadps4-emu/shadPS4",
-    "stargazers_count": 18104,
-    "open_issues_count": 90,
-    "forks_count": 1118
+    "stargazers_count": 18742,
+    "open_issues_count": 83,
+    "forks_count": 1144
   },
   {
     "full_name": "campsite/campsite",
-    "stargazers_count": 4401,
+    "stargazers_count": 4411,
     "open_issues_count": 5,
-    "forks_count": 660
+    "forks_count": 665
   },
   {
     "full_name": "mainframecomputer/orchestra",
-    "stargazers_count": 533,
-    "open_issues_count": 3,
-    "forks_count": 48
-  },
-  {
-    "full_name": "qvantor/waveditor",
-    "stargazers_count": 28,
-    "open_issues_count": 0,
-    "forks_count": 1
+    "stargazers_count": 538,
+    "open_issues_count": 5,
+    "forks_count": 49
   }
 ]
