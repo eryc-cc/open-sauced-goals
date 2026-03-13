@@ -1,7 +1,7 @@
 [
   {
     "full_name": "supernotes/sn-pro",
-    "stargazers_count": 727,
+    "stargazers_count": 729,
     "open_issues_count": 3,
     "forks_count": 9
   },
@@ -13,25 +13,25 @@
   },
   {
     "full_name": "LivKing/Inclusive-Sans",
-    "stargazers_count": 243,
-    "open_issues_count": 7,
+    "stargazers_count": 244,
+    "open_issues_count": 8,
     "forks_count": 5
   },
   {
     "full_name": "Any-Distance/any-distance-ios",
-    "stargazers_count": 956,
+    "stargazers_count": 958,
     "open_issues_count": 0,
     "forks_count": 132
   },
   {
     "full_name": "rdev/liquid-glass-react",
-    "stargazers_count": 4565,
+    "stargazers_count": 4588,
     "open_issues_count": 21,
-    "forks_count": 303
+    "forks_count": 306
   },
   {
     "full_name": "SwiftfulThinking/SwiftfulRouting",
-    "stargazers_count": 934,
+    "stargazers_count": 935,
     "open_issues_count": 5,
     "forks_count": 68
   },
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "muxinc/stream.new",
-    "stargazers_count": 586,
+    "stargazers_count": 588,
     "open_issues_count": 15,
     "forks_count": 80
   },
@@ -67,33 +67,33 @@
   },
   {
     "full_name": "roberthein/TinyConstraints",
-    "stargazers_count": 4087,
+    "stargazers_count": 4088,
     "open_issues_count": 23,
     "forks_count": 195
   },
   {
     "full_name": "zaidmukaddam/scira",
-    "stargazers_count": 11508,
-    "open_issues_count": 19,
+    "stargazers_count": 11518,
+    "open_issues_count": 20,
     "forks_count": 1457
   },
   {
     "full_name": "HeyPuter/puter",
-    "stargazers_count": 39857,
-    "open_issues_count": 191,
-    "forks_count": 3533
+    "stargazers_count": 39880,
+    "open_issues_count": 187,
+    "forks_count": 3535
   },
   {
     "full_name": "mrdoob/three.js",
-    "stargazers_count": 111258,
-    "open_issues_count": 600,
-    "forks_count": 36291
+    "stargazers_count": 111321,
+    "open_issues_count": 593,
+    "forks_count": 36292
   },
   {
     "full_name": "paper-design/shaders",
-    "stargazers_count": 1831,
-    "open_issues_count": 19,
-    "forks_count": 78
+    "stargazers_count": 1848,
+    "open_issues_count": 17,
+    "forks_count": 80
   },
   {
     "full_name": "paper-design/opentype.js",
@@ -103,19 +103,19 @@
   },
   {
     "full_name": "rt64/rt64",
-    "stargazers_count": 1497,
+    "stargazers_count": 1498,
     "open_issues_count": 85,
     "forks_count": 70
   },
   {
     "full_name": "FlineDev/BartyCrouch",
-    "stargazers_count": 1408,
+    "stargazers_count": 1407,
     "open_issues_count": 41,
     "forks_count": 118
   },
   {
     "full_name": "fermoya/SwiftUIPager",
-    "stargazers_count": 1445,
+    "stargazers_count": 1446,
     "open_issues_count": 45,
     "forks_count": 193
   },
@@ -133,20 +133,20 @@
   },
   {
     "full_name": "siyuan-note/siyuan",
-    "stargazers_count": 41757,
-    "open_issues_count": 352,
-    "forks_count": 2597
+    "stargazers_count": 41821,
+    "open_issues_count": 350,
+    "forks_count": 2608
   },
   {
     "full_name": "devxoul/Then",
-    "stargazers_count": 4384,
-    "open_issues_count": 14,
+    "stargazers_count": 4383,
+    "open_issues_count": 16,
     "forks_count": 298
   },
   {
     "full_name": "tinacms/tinacms",
-    "stargazers_count": 13199,
-    "open_issues_count": 377,
+    "stargazers_count": 13198,
+    "open_issues_count": 380,
     "forks_count": 682
   },
   {
@@ -157,13 +157,13 @@
   },
   {
     "full_name": "docling-project/docling",
-    "stargazers_count": 55354,
-    "open_issues_count": 851,
-    "forks_count": 3725
+    "stargazers_count": 55677,
+    "open_issues_count": 850,
+    "forks_count": 3759
   },
   {
     "full_name": "Mail-0/Zero",
-    "stargazers_count": 10468,
+    "stargazers_count": 10478,
     "open_issues_count": 16,
     "forks_count": 1282
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "huggingface/agents-course",
-    "stargazers_count": 26167,
-    "open_issues_count": 110,
-    "forks_count": 1837
+    "stargazers_count": 26268,
+    "open_issues_count": 113,
+    "forks_count": 1844
   }
 ]
