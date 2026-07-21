@@ -1,25 +1,25 @@
 [
   {
     "full_name": "janhq/ichigo",
-    "stargazers_count": 2488,
+    "stargazers_count": 2490,
     "open_issues_count": 35,
-    "forks_count": 150
+    "forks_count": 151
   },
   {
     "full_name": "chenglou/pretext",
-    "stargazers_count": 49170,
+    "stargazers_count": 49240,
     "open_issues_count": 84,
     "forks_count": 2717
   },
   {
     "full_name": "supernotes/sn-pro",
-    "stargazers_count": 758,
+    "stargazers_count": 757,
     "open_issues_count": 3,
     "forks_count": 9
   },
   {
     "full_name": "Aeastr/Garnish",
-    "stargazers_count": 236,
+    "stargazers_count": 237,
     "open_issues_count": 1,
     "forks_count": 7
   },
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "rdev/liquid-glass-react",
-    "stargazers_count": 5621,
+    "stargazers_count": 5661,
     "open_issues_count": 23,
-    "forks_count": 373
+    "forks_count": 376
   },
   {
     "full_name": "SwiftfulThinking/SwiftfulRouting",
-    "stargazers_count": 984,
+    "stargazers_count": 985,
     "open_issues_count": 6,
-    "forks_count": 72
+    "forks_count": 73
   },
   {
     "full_name": "jtrivedi/TouchInspector",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "muxinc/stream.new",
-    "stargazers_count": 606,
+    "stargazers_count": 607,
     "open_issues_count": 15,
     "forks_count": 85
   },
@@ -79,33 +79,33 @@
   },
   {
     "full_name": "roberthein/TinyConstraints",
-    "stargazers_count": 4090,
+    "stargazers_count": 4089,
     "open_issues_count": 23,
     "forks_count": 195
   },
   {
     "full_name": "zaidmukaddam/scira",
-    "stargazers_count": 11760,
-    "open_issues_count": 24,
-    "forks_count": 1480
+    "stargazers_count": 11780,
+    "open_issues_count": 25,
+    "forks_count": 1481
   },
   {
     "full_name": "HeyPuter/puter",
-    "stargazers_count": 42744,
-    "open_issues_count": 12,
-    "forks_count": 3954
+    "stargazers_count": 42811,
+    "open_issues_count": 17,
+    "forks_count": 3957
   },
   {
     "full_name": "mrdoob/three.js",
-    "stargazers_count": 113783,
-    "open_issues_count": 387,
-    "forks_count": 36424
+    "stargazers_count": 113878,
+    "open_issues_count": 385,
+    "forks_count": 36437
   },
   {
     "full_name": "paper-design/shaders",
-    "stargazers_count": 3077,
+    "stargazers_count": 3121,
     "open_issues_count": 17,
-    "forks_count": 130
+    "forks_count": 132
   },
   {
     "full_name": "paper-design/opentype.js",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "rt64/rt64",
-    "stargazers_count": 1558,
-    "open_issues_count": 88,
-    "forks_count": 98
+    "stargazers_count": 1561,
+    "open_issues_count": 89,
+    "forks_count": 100
   },
   {
     "full_name": "FlineDev/BartyCrouch",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "paper-design/liquid-logo",
-    "stargazers_count": 842,
+    "stargazers_count": 858,
     "open_issues_count": 9,
-    "forks_count": 84
+    "forks_count": 88
   },
   {
     "full_name": "yaslab/CSV.swift",
@@ -145,20 +145,20 @@
   },
   {
     "full_name": "siyuan-note/siyuan",
-    "stargazers_count": 45169,
-    "open_issues_count": 305,
-    "forks_count": 2890
+    "stargazers_count": 45294,
+    "open_issues_count": 286,
+    "forks_count": 2900
   },
   {
     "full_name": "devxoul/Then",
-    "stargazers_count": 4393,
+    "stargazers_count": 4395,
     "open_issues_count": 16,
     "forks_count": 301
   },
   {
     "full_name": "tinacms/tinacms",
-    "stargazers_count": 13656,
-    "open_issues_count": 440,
+    "stargazers_count": 13668,
+    "open_issues_count": 431,
     "forks_count": 733
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "docling-project/docling",
-    "stargazers_count": 63306,
-    "open_issues_count": 933,
-    "forks_count": 4471
+    "stargazers_count": 63529,
+    "open_issues_count": 932,
+    "forks_count": 4492
   },
   {
     "full_name": "Mail-0/Zero",
-    "stargazers_count": 10686,
-    "open_issues_count": 17,
-    "forks_count": 1313
+    "stargazers_count": 10715,
+    "open_issues_count": 18,
+    "forks_count": 1317
   }
 ]
