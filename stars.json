@@ -1,25 +1,25 @@
 [
   {
     "full_name": "Jakubantalik/thinking-orbs",
-    "stargazers_count": 3424,
+    "stargazers_count": 3546,
     "open_issues_count": 22,
-    "forks_count": 278
+    "forks_count": 290
   },
   {
     "full_name": "janhq/ichigo",
-    "stargazers_count": 2496,
+    "stargazers_count": 2495,
     "open_issues_count": 35,
     "forks_count": 151
   },
   {
     "full_name": "chenglou/pretext",
-    "stargazers_count": 50675,
-    "open_issues_count": 51,
+    "stargazers_count": 50707,
+    "open_issues_count": 65,
     "forks_count": 2751
   },
   {
     "full_name": "supernotes/sn-pro",
-    "stargazers_count": 771,
+    "stargazers_count": 770,
     "open_issues_count": 3,
     "forks_count": 9
   },
@@ -33,7 +33,7 @@
     "full_name": "LivKing/Inclusive-Sans",
     "stargazers_count": 264,
     "open_issues_count": 11,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "Any-Distance/any-distance-ios",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "rdev/liquid-glass-react",
-    "stargazers_count": 6316,
+    "stargazers_count": 6336,
     "open_issues_count": 24,
-    "forks_count": 413
+    "forks_count": 412
   },
   {
     "full_name": "SwiftfulThinking/SwiftfulRouting",
     "stargazers_count": 994,
     "open_issues_count": 6,
-    "forks_count": 73
+    "forks_count": 74
   },
   {
     "full_name": "jtrivedi/TouchInspector",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "muxinc/stream.new",
-    "stargazers_count": 614,
+    "stargazers_count": 615,
     "open_issues_count": 15,
     "forks_count": 87
   },
@@ -85,32 +85,32 @@
   },
   {
     "full_name": "roberthein/TinyConstraints",
-    "stargazers_count": 4081,
+    "stargazers_count": 4080,
     "open_issues_count": 23,
     "forks_count": 195
   },
   {
     "full_name": "zaidmukaddam/scira",
-    "stargazers_count": 11904,
+    "stargazers_count": 11900,
     "open_issues_count": 27,
-    "forks_count": 1500
+    "forks_count": 1499
   },
   {
     "full_name": "HeyPuter/puter",
-    "stargazers_count": 43645,
+    "stargazers_count": 43656,
     "open_issues_count": 25,
-    "forks_count": 4071
+    "forks_count": 4068
   },
   {
     "full_name": "mrdoob/three.js",
-    "stargazers_count": 116150,
-    "open_issues_count": 383,
-    "forks_count": 36604
+    "stargazers_count": 116271,
+    "open_issues_count": 394,
+    "forks_count": 36610
   },
   {
     "full_name": "paper-design/shaders",
-    "stargazers_count": 3530,
-    "open_issues_count": 13,
+    "stargazers_count": 3551,
+    "open_issues_count": 12,
     "forks_count": 155
   },
   {
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "rt64/rt64",
-    "stargazers_count": 1605,
-    "open_issues_count": 94,
-    "forks_count": 125
+    "stargazers_count": 1608,
+    "open_issues_count": 96,
+    "forks_count": 128
   },
   {
     "full_name": "FlineDev/BartyCrouch",
@@ -135,13 +135,13 @@
     "full_name": "fermoya/SwiftUIPager",
     "stargazers_count": 1471,
     "open_issues_count": 45,
-    "forks_count": 197
+    "forks_count": 198
   },
   {
     "full_name": "paper-design/liquid-logo",
-    "stargazers_count": 1200,
+    "stargazers_count": 1226,
     "open_issues_count": 9,
-    "forks_count": 113
+    "forks_count": 114
   },
   {
     "full_name": "yaslab/CSV.swift",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "siyuan-note/siyuan",
-    "stargazers_count": 46601,
-    "open_issues_count": 18,
-    "forks_count": 3033
+    "stargazers_count": 46637,
+    "open_issues_count": 15,
+    "forks_count": 3040
   },
   {
     "full_name": "devxoul/Then",
@@ -163,8 +163,8 @@
   },
   {
     "full_name": "tinacms/tinacms",
-    "stargazers_count": 13823,
-    "open_issues_count": 455,
+    "stargazers_count": 13824,
+    "open_issues_count": 452,
     "forks_count": 760
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "docling-project/docling",
-    "stargazers_count": 68288,
-    "open_issues_count": 973,
-    "forks_count": 4982
+    "stargazers_count": 68429,
+    "open_issues_count": 1007,
+    "forks_count": 5003
   }
 ]
